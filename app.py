@@ -11,6 +11,26 @@ from collections import Counter
 st.set_page_config(page_title="TeamSphere Pro", layout="wide")
 st.title("🤝 TeamSphere Pro: 戦略的チーム最適化エンジン")
 
+# --- アプリの説明セクション (READMEの内容を統合) ---
+with st.expander("📖 このアプリについて（プロジェクトの概要と仕組み）"):
+    st.markdown("""
+    ### 🌟 プロジェクトの概要
+    TeamSphere Proは、大規模なエンジニアコミュニティの中から、プロジェクトの目的に応じて最適なチームをAIが選抜・分析するプラットフォームです。
+    **Stack Overflow Annual Developer Survey 2022** のデータを活用し、849名のエンジニアをモデル化しています。
+
+    ### 1. コミュニティ検出によるチーム編成
+    単なるスキルの有無だけでなく、エンジニア同士の「スキルの近接性」をグラフ理論に基づき解析しています。
+    - **Louvain法によるコミュニティ検出**: 専門性が近いエンジニアを自動的にグループ化。
+    - **現実的な運用**: 現実の組織では「趣味」「価値観」「過去の協業経験」をデータ化することで、**「気が合うコミュニティ」**を特定し、そこから最強のチームを編成することが可能です。
+
+    ### 2. 機械学習 (Machine Learning) の役割
+    - **役割予測**: 保有スキルからその人が果たすべき「実質的な役割（AI Role）」を予測。
+    - **戦略的スコアリング**: 選択した重点カテゴリ（Data Science等）に基づき、候補者の適合度を算出。
+    
+    ### 3. 役職の決定
+    - **中心性（ハブ度）解析**: ネットワーク内で最も他者と技術的な共通点が多い人を、調整役の**リーダー**として選定します。
+    """)
+
 # データとモデルのパス
 nodes_path = "data/processed/nodes_with_communities.csv"
 edges_path = "data/processed/edges.csv"
@@ -36,16 +56,13 @@ def draw_radar_chart(team_skills_df):
     all_skills = []
     for s in team_skills_df['LanguageHaveWorkedWith'].str.split(';'):
         all_skills.extend(s)
-    
     scores = get_skill_scores(all_skills)
     labels = list(scores.keys())
     values = list(scores.values())
-    
     num_vars = len(labels)
     angles = np.linspace(0, 2 * np.pi, num_vars, endpoint=False).tolist()
     values += values[:1]
     angles += angles[:1]
-
     fig, ax = plt.subplots(figsize=(4, 4), subplot_kw=dict(polar=True))
     ax.fill(angles, values, color='blue', alpha=0.25)
     ax.plot(angles, values, color='blue', linewidth=2)
@@ -61,7 +78,6 @@ if os.path.exists(nodes_path) and os.path.exists(edges_path):
     for _, row in edges_df.iterrows():
         G_full.add_edge(row['source'], row['target'], weight=row['weight'])
 
-    # --- 全体ネットワークの表示 ---
     st.subheader("🕸️ 全体コミュニティ構造")
     fig_all, ax_all = plt.subplots(figsize=(12, 5))
     pos = nx.spring_layout(G_full, k=0.15, seed=42)
@@ -72,24 +88,18 @@ if os.path.exists(nodes_path) and os.path.exists(edges_path):
 
     st.divider()
 
-    # --- チーム選抜設定 ---
     st.subheader("🎯 チーム選抜・戦略設定")
     col_set1, col_set2 = st.columns(2)
-    
     with col_set1:
         mode = st.radio("🔎 選抜アプローチ", ["コミュニティから選抜", "特定個人(自分)に合わせる"])
-    
     with col_set2:
         st.write("💡 重視するスキルカテゴリを選択してください")
         selected_skills = []
-        # 5つの要素を選択制にする
         cols = st.columns(3)
         all_cats = list(SKILL_CATEGORIES.keys())
         for i, cat in enumerate(all_cats):
             if cols[i % 3].checkbox(cat, value=True):
                 selected_skills.append(cat)
-        
-        # 戦略の自動判定
         if len(selected_skills) == len(all_cats):
             strategy_label = "バランス重視（全方位カバー）"
         elif len(selected_skills) == 0:
@@ -112,43 +122,34 @@ if os.path.exists(nodes_path) and os.path.exists(edges_path):
             candidates = pd.DataFrame()
 
     if not candidates.empty and st.button("戦略に基づいてチームを編成"):
-        with open(model_path, 'rb') as f:
-            model, mlb = pickle.load(f)
-        
-        X = mlb.transform(candidates['LanguageHaveWorkedWith'].str.split(';'))
-        candidates['AI_Role'] = model.predict(X)
-        
-        # 選択されたカテゴリに基づいたスコアリング
-        def calc_custom_strategy_score(skill_list, selected_cats):
-            score = 0
-            for cat in selected_cats:
-                score += len(set(skill_list) & set(SKILL_CATEGORIES[cat]))
-            return score
-
-        candidates['Strategy_Score'] = candidates['LanguageHaveWorkedWith'].str.split(';').apply(lambda x: calc_custom_strategy_score(x, selected_skills))
-        
-        G_sub = G_full.subgraph(candidates['ResponseId'])
-        candidates['Centrality'] = candidates['ResponseId'].map(nx.degree_centrality(G_sub))
-
-        # 選抜ロジック
-        if len(selected_skills) == len(all_cats) or len(selected_skills) == 0:
-            # バランス重視：役割の多様性と中心性を優先
-            recommended = candidates.sort_values('Centrality', ascending=False).drop_duplicates(subset=['AI_Role']).head(5)
+        if os.path.exists(model_path):
+            with open(model_path, 'rb') as f:
+                model, mlb = pickle.load(f)
+            X = mlb.transform(candidates['LanguageHaveWorkedWith'].str.split(';'))
+            candidates['AI_Role'] = model.predict(X)
+            def calc_custom_strategy_score(skill_list, selected_cats):
+                score = 0
+                for cat in selected_cats:
+                    score += len(set(skill_list) & set(SKILL_CATEGORIES[cat]))
+                return score
+            candidates['Strategy_Score'] = candidates['LanguageHaveWorkedWith'].str.split(';').apply(lambda x: calc_custom_strategy_score(x, selected_skills))
+            G_sub = G_full.subgraph(candidates['ResponseId'])
+            candidates['Centrality'] = candidates['ResponseId'].map(nx.degree_centrality(G_sub))
+            if len(selected_skills) == len(all_cats) or len(selected_skills) == 0:
+                recommended = candidates.sort_values('Centrality', ascending=False).drop_duplicates(subset=['AI_Role']).head(5)
+            else:
+                recommended = candidates.sort_values(['Strategy_Score', 'Centrality'], ascending=False).head(5)
+            recommended = recommended.sort_values('Centrality', ascending=False)
+            recommended['Position'] = ["👑 Leader", "🥈 Tech Lead", "Member", "Member", "Member"]
+            col_res1, col_res2 = st.columns([2, 1])
+            with col_res1:
+                st.success(f"✅ {strategy_label} チームが結成されました")
+                st.table(recommended[['Position', 'ResponseId', 'AI_Role', 'LanguageHaveWorkedWith']])
+                st.download_button("📤 チームリストを保存", recommended.to_csv(index=False).encode('utf-8'), "team_report.csv", "text/csv")
+            with col_res2:
+                st.write("📊 **チーム分析**")
+                st.pyplot(draw_radar_chart(recommended))
         else:
-            # 特化型：戦略スコアが高い順に選ぶ
-            recommended = candidates.sort_values(['Strategy_Score', 'Centrality'], ascending=False).head(5)
-
-        recommended = recommended.sort_values('Centrality', ascending=False)
-        recommended['Position'] = ["👑 Leader", "🥈 Tech Lead", "Member", "Member", "Member"]
-
-        col_res1, col_res2 = st.columns([2, 1])
-        with col_res1:
-            st.success(f"✅ {strategy_label} チームが結成されました")
-            st.table(recommended[['Position', 'ResponseId', 'AI_Role', 'LanguageHaveWorkedWith']])
-            st.download_button("📤 チームリストを保存", recommended.to_csv(index=False).encode('utf-8'), "team_report.csv", "text/csv")
-
-        with col_res2:
-            st.write("📊 **チーム分析**")
-            st.pyplot(draw_radar_chart(recommended))
+            st.warning("モデルが見つかりません。")
 else:
     st.error("データセットが見つかりません。")
