@@ -1,0 +1,850 @@
+ResponseId,LanguageHaveWorkedWith,DevType,skill_list,community_id
+3,C#;C++;HTML/CSS;JavaScript;Python,"Data scientist or machine learning specialist;Developer, front-end;Engineer, data;Engineer, site reliability","['C#', 'C++', 'HTML/CSS', 'JavaScript', 'Python']",64
+4,C#;JavaScript;SQL;TypeScript,"Developer, full-stack","['C#', 'JavaScript', 'SQL', 'TypeScript']",64
+5,C#;HTML/CSS;JavaScript;SQL;Swift;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications;Developer, QA or test","['C#', 'HTML/CSS', 'JavaScript', 'SQL', 'Swift', 'TypeScript']",64
+8,C;C++;HTML/CSS;Java;JavaScript;SQL,"Developer, full-stack;Student","['C', 'C++', 'HTML/CSS', 'Java', 'JavaScript', 'SQL']",35
+10,Delphi;Java;Swift,"Developer, desktop or enterprise applications;Developer, mobile;Educator","['Delphi', 'Java', 'Swift']",4
+11,Bash/Shell;C#;HTML/CSS;JavaScript;PowerShell;SQL,"Developer, full-stack;Developer, back-end","['Bash/Shell', 'C#', 'HTML/CSS', 'JavaScript', 'PowerShell', 'SQL']",64
+12,C#;HTML/CSS;JavaScript;PowerShell;Python;Rust;SQL,Engineering manager,"['C#', 'HTML/CSS', 'JavaScript', 'PowerShell', 'Python', 'Rust', 'SQL']",64
+13,C;HTML/CSS;Rust;SQL;Swift;TypeScript,"Developer, full-stack","['C', 'HTML/CSS', 'Rust', 'SQL', 'Swift', 'TypeScript']",35
+14,Elixir;Erlang;HTML/CSS;JavaScript;Ruby;SQL;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end;Database administrator","['Elixir', 'Erlang', 'HTML/CSS', 'JavaScript', 'Ruby', 'SQL', 'TypeScript']",113
+15,HTML/CSS;JavaScript;PHP;Python;R;Ruby;Scala,"Developer, full-stack;Academic researcher;DevOps specialist","['HTML/CSS', 'JavaScript', 'PHP', 'Python', 'R', 'Ruby', 'Scala']",113
+16,Bash/Shell;HTML/CSS;JavaScript;SQL;TypeScript,"Developer, full-stack","['Bash/Shell', 'HTML/CSS', 'JavaScript', 'SQL', 'TypeScript']",113
+17,C#;Java;PHP;Python;R,"Developer, full-stack","['C#', 'Java', 'PHP', 'Python', 'R']",102
+18,Python;SQL,"Engineer, data","['Python', 'SQL']",12
+19,C#;PowerShell;SQL,"Developer, back-end;Developer, desktop or enterprise applications","['C#', 'PowerShell', 'SQL']",64
+21,Bash/Shell;C#;HTML/CSS;Java;JavaScript;PowerShell;SQL;TypeScript,Student,"['Bash/Shell', 'C#', 'HTML/CSS', 'Java', 'JavaScript', 'PowerShell', 'SQL', 'TypeScript']",64
+22,Python;SQL;TypeScript,"Developer, full-stack","['Python', 'SQL', 'TypeScript']",102
+23,C#;SQL;TypeScript,"Developer, back-end","['C#', 'SQL', 'TypeScript']",64
+24,VBA,Other (please specify):,['VBA'],17
+25,C#;C++;JavaScript;PHP;TypeScript,"Developer, full-stack","['C#', 'C++', 'JavaScript', 'PHP', 'TypeScript']",64
+26,Dart;Go;Java;Kotlin;Swift;TypeScript,"Developer, back-end;Developer, mobile","['Dart', 'Go', 'Java', 'Kotlin', 'Swift', 'TypeScript']",102
+27,Bash/Shell;Groovy;HTML/CSS;Java;JavaScript;SQL,"Developer, full-stack;Developer, back-end","['Bash/Shell', 'Groovy', 'HTML/CSS', 'Java', 'JavaScript', 'SQL']",102
+29,C;C++,"Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, game or graphics","['C', 'C++']",21
+30,C#;JavaScript;PowerShell;SQL,"Developer, full-stack","['C#', 'JavaScript', 'PowerShell', 'SQL']",64
+32,C#;HTML/CSS;JavaScript;SQL,"Developer, full-stack","['C#', 'HTML/CSS', 'JavaScript', 'SQL']",64
+33,C++;Python,Student,"['C++', 'Python']",24
+34,C++;Go;Python,Student;Academic researcher,"['C++', 'Go', 'Python']",35
+35,HTML/CSS;JavaScript;Python;SQL;TypeScript,"Developer, back-end","['HTML/CSS', 'JavaScript', 'Python', 'SQL', 'TypeScript']",113
+37,C#;C++;HTML/CSS;Java;JavaScript;MATLAB;Python;SQL,"Developer, back-end;Project manager","['C#', 'C++', 'HTML/CSS', 'Java', 'JavaScript', 'MATLAB', 'Python', 'SQL']",64
+38,HTML/CSS;JavaScript;PHP;Python;Ruby,"Developer, front-end;Developer, full-stack;Developer, back-end;Engineering manager","['HTML/CSS', 'JavaScript', 'PHP', 'Python', 'Ruby']",113
+40,Bash/Shell;Groovy;HTML/CSS;Java;JavaScript;Perl;PHP;Scala;SQL,"Developer, back-end;Database administrator;DevOps specialist;Cloud infrastructure engineer;Data or business analyst","['Bash/Shell', 'Groovy', 'HTML/CSS', 'Java', 'JavaScript', 'Perl', 'PHP', 'Scala', 'SQL']",113
+41,C#;C++;HTML/CSS;JavaScript;SQL;TypeScript;VBA,"Developer, front-end;Engineer, data;Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications;Developer, QA or test;Developer, mobile;Database administrator;Developer, embedded applications or devices;Cloud infrastructure engineer;Data or business analyst;Designer","['C#', 'C++', 'HTML/CSS', 'JavaScript', 'SQL', 'TypeScript', 'VBA']",64
+42,Bash/Shell;HTML/CSS;Python;SQL,"Data scientist or machine learning specialist;Engineer, data;Developer, back-end","['Bash/Shell', 'HTML/CSS', 'Python', 'SQL']",102
+43,C#;HTML/CSS;JavaScript;PHP;Ruby;SQL,"Developer, front-end;Developer, full-stack;Developer, back-end;Database administrator","['C#', 'HTML/CSS', 'JavaScript', 'PHP', 'Ruby', 'SQL']",64
+46,JavaScript;TypeScript,"Developer, front-end","['JavaScript', 'TypeScript']",33
+48,Java;JavaScript;PHP;SQL;TypeScript,"Developer, full-stack;Developer, back-end","['Java', 'JavaScript', 'PHP', 'SQL', 'TypeScript']",113
+49,Haskell;Java;Rust,"Developer, back-end;Developer, desktop or enterprise applications","['Haskell', 'Java', 'Rust']",35
+50,C#;HTML/CSS;JavaScript;SQL;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end;DevOps specialist;Cloud infrastructure engineer","['C#', 'HTML/CSS', 'JavaScript', 'SQL', 'TypeScript']",64
+51,Bash/Shell;Julia;Python,Data scientist or machine learning specialist;Student;Academic researcher;Scientist,"['Bash/Shell', 'Julia', 'Python']",35
+52,Bash/Shell;HTML/CSS;Java;JavaScript;Python;Rust;SQL,"Developer, back-end","['Bash/Shell', 'HTML/CSS', 'Java', 'JavaScript', 'Python', 'Rust', 'SQL']",102
+53,Bash/Shell;Go;Java;Python,"Engineer, site reliability;Developer, back-end;Student;Cloud infrastructure engineer","['Bash/Shell', 'Go', 'Java', 'Python']",102
+54,C#;HTML/CSS;JavaScript;SQL;TypeScript,"Developer, front-end;Developer, full-stack;Developer, desktop or enterprise applications","['C#', 'HTML/CSS', 'JavaScript', 'SQL', 'TypeScript']",64
+55,Bash/Shell;C#;HTML/CSS;Java;JavaScript;LISP;PowerShell;SQL,"Developer, back-end;Developer, desktop or enterprise applications;DevOps specialist;Cloud infrastructure engineer","['Bash/Shell', 'C#', 'HTML/CSS', 'Java', 'JavaScript', 'LISP', 'PowerShell', 'SQL']",64
+56,C#;HTML/CSS;Java;JavaScript;Python;SQL;TypeScript,"Developer, full-stack;Developer, back-end","['C#', 'HTML/CSS', 'Java', 'JavaScript', 'Python', 'SQL', 'TypeScript']",64
+57,C++,"Developer, back-end;Developer, embedded applications or devices",['C++'],43
+58,Bash/Shell;C#;HTML/CSS;PowerShell;SQL;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end","['Bash/Shell', 'C#', 'HTML/CSS', 'PowerShell', 'SQL', 'TypeScript']",64
+59,Dart;HTML/CSS;Java;Kotlin;Python,"Developer, mobile","['Dart', 'HTML/CSS', 'Java', 'Kotlin', 'Python']",102
+60,Assembly;Bash/Shell;C;HTML/CSS;JavaScript;PHP;Python;SQL,"Student;Developer, embedded applications or devices","['Assembly', 'Bash/Shell', 'C', 'HTML/CSS', 'JavaScript', 'PHP', 'Python', 'SQL']",113
+61,Bash/Shell;C#;C++;HTML/CSS;Java;JavaScript;Kotlin;Python;Rust;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end;Engineering manager;Database administrator;Developer, game or graphics;Project manager;Cloud infrastructure engineer;Designer;Product manager;Senior Executive (C-Suite, VP, etc.);System administrator","['Bash/Shell', 'C#', 'C++', 'HTML/CSS', 'Java', 'JavaScript', 'Kotlin', 'Python', 'Rust', 'TypeScript']",35
+62,Bash/Shell;HTML/CSS;Python,"Data scientist or machine learning specialist;Developer, back-end;Developer, desktop or enterprise applications;Student;Database administrator;Academic researcher;Data or business analyst;Designer;System administrator","['Bash/Shell', 'HTML/CSS', 'Python']",102
+63,Groovy;Java;Kotlin,"Developer, back-end;Designer","['Groovy', 'Java', 'Kotlin']",102
+64,Bash/Shell;C;Go;HTML/CSS;Java;JavaScript;Python;Swift;TypeScript,"Developer, front-end;Developer, full-stack;Developer, embedded applications or devices;Designer","['Bash/Shell', 'C', 'Go', 'HTML/CSS', 'Java', 'JavaScript', 'Python', 'Swift', 'TypeScript']",102
+66,C#,"Developer, back-end;DevOps specialist",['C#'],51
+67,C;C++;Delphi;HTML/CSS;Java;JavaScript,"Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications","['C', 'C++', 'Delphi', 'HTML/CSS', 'Java', 'JavaScript']",35
+68,C#;HTML/CSS;JavaScript;PHP;SQL,"Developer, full-stack;Developer, back-end;Developer, QA or test;DevOps specialist","['C#', 'HTML/CSS', 'JavaScript', 'PHP', 'SQL']",64
+69,C++;HTML/CSS;JavaScript;PHP;PowerShell;Python;SQL;TypeScript,"Developer, back-end;Blockchain","['C++', 'HTML/CSS', 'JavaScript', 'PHP', 'PowerShell', 'Python', 'SQL', 'TypeScript']",113
+70,Bash/Shell;HTML/CSS;Java;JavaScript;SQL;TypeScript,"Developer, back-end;Cloud infrastructure engineer;Designer","['Bash/Shell', 'HTML/CSS', 'Java', 'JavaScript', 'SQL', 'TypeScript']",113
+71,Java;Kotlin;PHP,"Developer, mobile","['Java', 'Kotlin', 'PHP']",102
+72,Bash/Shell;C;F#;Groovy;JavaScript;Python,"Student;DevOps specialist;Developer, embedded applications or devices","['Bash/Shell', 'C', 'F#', 'Groovy', 'JavaScript', 'Python']",35
+73,Java;SQL,Other (please specify):,"['Java', 'SQL']",58
+74,Bash/Shell;HTML/CSS;JavaScript;PowerShell;Python;SQL,"Developer, full-stack;Developer, QA or test;DevOps specialist","['Bash/Shell', 'HTML/CSS', 'JavaScript', 'PowerShell', 'Python', 'SQL']",102
+75,C#;HTML/CSS;SQL;TypeScript,"Developer, full-stack","['C#', 'HTML/CSS', 'SQL', 'TypeScript']",64
+76,Groovy;Java;Ruby,"Developer, back-end;Student","['Groovy', 'Java', 'Ruby']",102
+77,C#;JavaScript;Python;SQL,"Developer, back-end;Marketing or sales professional","['C#', 'JavaScript', 'Python', 'SQL']",64
+79,HTML/CSS;JavaScript;PHP,"Developer, full-stack","['HTML/CSS', 'JavaScript', 'PHP']",113
+80,Bash/Shell;Clojure;Java;JavaScript;SQL,"Developer, back-end;Engineering manager;Database administrator;DevOps specialist;Cloud infrastructure engineer","['Bash/Shell', 'Clojure', 'Java', 'JavaScript', 'SQL']",102
+81,Delphi,"Developer, back-end;Developer, desktop or enterprise applications;Developer, mobile;Developer, embedded applications or devices;Developer, game or graphics",['Delphi'],65
+82,Bash/Shell;HTML/CSS;JavaScript,Marketing or sales professional,"['Bash/Shell', 'HTML/CSS', 'JavaScript']",113
+84,HTML/CSS;JavaScript;Ruby;SQL;TypeScript,"Developer, full-stack;Engineering manager","['HTML/CSS', 'JavaScript', 'Ruby', 'SQL', 'TypeScript']",113
+85,HTML/CSS;JavaScript;PowerShell;TypeScript,"Developer, full-stack","['HTML/CSS', 'JavaScript', 'PowerShell', 'TypeScript']",64
+86,Bash/Shell;Java;Python;SQL,"Data scientist or machine learning specialist;Engineer, data;Developer, full-stack;Developer, back-end","['Bash/Shell', 'Java', 'Python', 'SQL']",102
+88,Bash/Shell;C#;Groovy;HTML/CSS;JavaScript,"Developer, back-end;Engineering manager","['Bash/Shell', 'C#', 'Groovy', 'HTML/CSS', 'JavaScript']",64
+89,HTML/CSS;TypeScript,"Developer, full-stack","['HTML/CSS', 'TypeScript']",71
+90,C#;C++;PowerShell;Python,"Developer, desktop or enterprise applications;Project manager","['C#', 'C++', 'PowerShell', 'Python']",35
+91,Python;R;SQL,"Engineer, data","['Python', 'R', 'SQL']",113
+92,C#;C++;Delphi;JavaScript,"Developer, front-end;Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications;Cloud infrastructure engineer","['C#', 'C++', 'Delphi', 'JavaScript']",35
+93,Bash/Shell;C++;Go;HTML/CSS;Python;R,"Developer, back-end;Academic researcher;Scientist","['Bash/Shell', 'C++', 'Go', 'HTML/CSS', 'Python', 'R']",35
+94,Bash/Shell;HTML/CSS;JavaScript;PHP;TypeScript,"Developer, front-end","['Bash/Shell', 'HTML/CSS', 'JavaScript', 'PHP', 'TypeScript']",113
+95,Python;R,Data scientist or machine learning specialist;Scientist,"['Python', 'R']",77
+96,Bash/Shell;C;C++;Python,"Developer, embedded applications or devices;Security professional","['Bash/Shell', 'C', 'C++', 'Python']",35
+97,Go;HTML/CSS;JavaScript;Ruby;Rust;SQL,"Developer, full-stack","['Go', 'HTML/CSS', 'JavaScript', 'Ruby', 'Rust', 'SQL']",113
+98,C#;HTML/CSS;Java;JavaScript;Python;SQL;VBA,"Developer, front-end;Engineer, data;Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications;DevOps specialist;Data or business analyst","['C#', 'HTML/CSS', 'Java', 'JavaScript', 'Python', 'SQL', 'VBA']",64
+100,C;C++;HTML/CSS;Java;JavaScript;MATLAB;Python;SQL,"Developer, full-stack","['C', 'C++', 'HTML/CSS', 'Java', 'JavaScript', 'MATLAB', 'Python', 'SQL']",35
+102,HTML/CSS;Java;JavaScript;PHP;SQL;TypeScript,"Developer, full-stack;Developer, back-end","['HTML/CSS', 'Java', 'JavaScript', 'PHP', 'SQL', 'TypeScript']",113
+103,C#;Python;SQL,"Developer, back-end;Student;DevOps specialist;Project manager;System administrator","['C#', 'Python', 'SQL']",64
+104,JavaScript;SQL,"Developer, full-stack","['JavaScript', 'SQL']",84
+105,C#;JavaScript;SQL,"Developer, back-end","['C#', 'JavaScript', 'SQL']",64
+106,Go;HTML/CSS;JavaScript;SQL;TypeScript,"Developer, full-stack","['Go', 'HTML/CSS', 'JavaScript', 'SQL', 'TypeScript']",113
+108,Python;SQL;VBA,"Data scientist or machine learning specialist;Developer, front-end;Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications;Developer, QA or test;Database administrator;Developer, embedded applications or devices","['Python', 'SQL', 'VBA']",102
+109,C#;HTML/CSS;JavaScript;SQL,"Developer, full-stack","['C#', 'HTML/CSS', 'JavaScript', 'SQL']",64
+110,C#;JavaScript;Kotlin;PowerShell;Rust;TypeScript,"Developer, back-end","['C#', 'JavaScript', 'Kotlin', 'PowerShell', 'Rust', 'TypeScript']",64
+111,Go,"Developer, back-end;Student",['Go'],90
+112,C#;HTML/CSS;JavaScript;PowerShell;SQL,"Developer, front-end;Developer, full-stack;Developer, back-end","['C#', 'HTML/CSS', 'JavaScript', 'PowerShell', 'SQL']",64
+113,Bash/Shell;PHP;Python;TypeScript,"Developer, back-end;Security professional","['Bash/Shell', 'PHP', 'Python', 'TypeScript']",102
+114,Bash/Shell;HTML/CSS;JavaScript;PHP;R;SQL,"Developer, back-end;Database administrator;Project manager;Security professional","['Bash/Shell', 'HTML/CSS', 'JavaScript', 'PHP', 'R', 'SQL']",113
+115,Groovy;Java;JavaScript;SQL,"Developer, full-stack;Engineering manager;Other (please specify):","['Groovy', 'Java', 'JavaScript', 'SQL']",102
+116,Java;Python;SQL,"Developer, back-end","['Java', 'Python', 'SQL']",102
+117,HTML/CSS;Java;JavaScript;Python,"Developer, back-end","['HTML/CSS', 'Java', 'JavaScript', 'Python']",102
+118,C#,"Data scientist or machine learning specialist;Engineer, data;Developer, full-stack;Developer, back-end;Senior Executive (C-Suite, VP, etc.)",['C#'],97
+119,HTML/CSS;JavaScript;SQL,Student,"['HTML/CSS', 'JavaScript', 'SQL']",113
+120,Bash/Shell;C;C#;JavaScript;Perl;PowerShell;Python;R;Ruby;SQL,"Engineer, site reliability;Student;DevOps specialist;Cloud infrastructure engineer","['Bash/Shell', 'C', 'C#', 'JavaScript', 'Perl', 'PowerShell', 'Python', 'R', 'Ruby', 'SQL']",64
+121,HTML/CSS;Java;Kotlin;SQL;TypeScript,"Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications;Developer, QA or test;Designer","['HTML/CSS', 'Java', 'Kotlin', 'SQL', 'TypeScript']",113
+122,Go;Java;Python,"Engineer, data","['Go', 'Java', 'Python']",102
+123,HTML/CSS;JavaScript;PHP;Ruby;SQL;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end","['HTML/CSS', 'JavaScript', 'PHP', 'Ruby', 'SQL', 'TypeScript']",113
+124,Crystal;Java;Kotlin;SQL;VBA,"Developer, front-end;Developer, full-stack;Developer, back-end;Developer, QA or test;Developer, mobile;System administrator","['Crystal', 'Java', 'Kotlin', 'SQL', 'VBA']",102
+125,Go;JavaScript;Python;Rust;SQL;TypeScript,"Developer, back-end;Student;System administrator","['Go', 'JavaScript', 'Python', 'Rust', 'SQL', 'TypeScript']",35
+127,JavaScript;Python;SQL,"Engineer, data;Data or business analyst","['JavaScript', 'Python', 'SQL']",102
+128,HTML/CSS;JavaScript;PHP;Python;SQL,"Developer, front-end;Developer, full-stack;Developer, back-end;Cloud infrastructure engineer","['HTML/CSS', 'JavaScript', 'PHP', 'Python', 'SQL']",113
+129,C#;Python,Data scientist or machine learning specialist;Student;Data or business analyst,"['C#', 'Python']",107
+131,HTML/CSS;Java;JavaScript;Perl;PHP;Python;SQL,"Developer, back-end","['HTML/CSS', 'Java', 'JavaScript', 'Perl', 'PHP', 'Python', 'SQL']",113
+132,Bash/Shell;Go;JavaScript;Python;TypeScript,"Developer, back-end;Cloud infrastructure engineer","['Bash/Shell', 'Go', 'JavaScript', 'Python', 'TypeScript']",102
+133,C#;HTML/CSS;JavaScript;PowerShell;TypeScript,"Developer, full-stack","['C#', 'HTML/CSS', 'JavaScript', 'PowerShell', 'TypeScript']",64
+134,C#;JavaScript;Perl;Python;Ruby;SQL,"Developer, back-end","['C#', 'JavaScript', 'Perl', 'Python', 'Ruby', 'SQL']",64
+135,HTML/CSS;JavaScript;TypeScript,"Developer, front-end","['HTML/CSS', 'JavaScript', 'TypeScript']",113
+136,Bash/Shell;C;C++;Erlang;Go;Java;Python,"Developer, back-end","['Bash/Shell', 'C', 'C++', 'Erlang', 'Go', 'Java', 'Python']",35
+138,Java;Kotlin;Ruby,"Developer, full-stack;Developer, back-end;Designer;Scientist","['Java', 'Kotlin', 'Ruby']",102
+139,PHP;Python;Scala,"Developer, back-end","['PHP', 'Python', 'Scala']",113
+140,C#;C++;Java;JavaScript;LISP;Python,DevOps specialist,"['C#', 'C++', 'Java', 'JavaScript', 'LISP', 'Python']",35
+141,HTML/CSS;JavaScript;Kotlin;TypeScript,"Developer, front-end;Developer, full-stack;Designer","['HTML/CSS', 'JavaScript', 'Kotlin', 'TypeScript']",113
+142,C#;HTML/CSS;Java;JavaScript;TypeScript,"Developer, front-end","['C#', 'HTML/CSS', 'Java', 'JavaScript', 'TypeScript']",64
+143,C++;Julia;Python;Rust,"Data scientist or machine learning specialist;Developer, embedded applications or devices","['C++', 'Julia', 'Python', 'Rust']",35
+144,Bash/Shell;HTML/CSS;JavaScript;Python;Ruby;SQL,"Developer, front-end;Developer, full-stack;Developer, back-end;Database administrator;Cloud infrastructure engineer;System administrator","['Bash/Shell', 'HTML/CSS', 'JavaScript', 'Python', 'Ruby', 'SQL']",102
+145,Delphi;LISP;SQL,"Developer, desktop or enterprise applications","['Delphi', 'LISP', 'SQL']",13
+146,Bash/Shell;C++;Go;Java;JavaScript;PHP;Rust;SQL;TypeScript,"Developer, back-end","['Bash/Shell', 'C++', 'Go', 'Java', 'JavaScript', 'PHP', 'Rust', 'SQL', 'TypeScript']",35
+148,Java;JavaScript;Rust,"Engineer, data","['Java', 'JavaScript', 'Rust']",35
+149,HTML/CSS;Java;JavaScript;Python;SQL;TypeScript,"Developer, full-stack","['HTML/CSS', 'Java', 'JavaScript', 'Python', 'SQL', 'TypeScript']",113
+151,Python,"Developer, back-end;Developer, desktop or enterprise applications",['Python'],14
+152,Bash/Shell;HTML/CSS;Java;JavaScript;Python;SQL,"Developer, full-stack;Data or business analyst","['Bash/Shell', 'HTML/CSS', 'Java', 'JavaScript', 'Python', 'SQL']",102
+153,C;C#;C++;Dart;Java;JavaScript;Kotlin;PHP;Python;Swift,"Developer, front-end;Developer, full-stack;Developer, back-end;Developer, mobile","['C', 'C#', 'C++', 'Dart', 'Java', 'JavaScript', 'Kotlin', 'PHP', 'Python', 'Swift']",35
+154,Go;HTML/CSS;Java;JavaScript;Python;SQL,"Developer, front-end;Engineer, data;Developer, full-stack;Developer, back-end;Engineering manager;Database administrator;Cloud infrastructure engineer;Data or business analyst","['Go', 'HTML/CSS', 'Java', 'JavaScript', 'Python', 'SQL']",102
+155,Bash/Shell;C#;C++;Erlang;Go;Groovy;HTML/CSS;Java;JavaScript;Kotlin;PHP;PowerShell;Python;Ruby;Scala;SQL;Swift,Other (please specify):,"['Bash/Shell', 'C#', 'C++', 'Erlang', 'Go', 'Groovy', 'HTML/CSS', 'Java', 'JavaScript', 'Kotlin', 'PHP', 'PowerShell', 'Python', 'Ruby', 'Scala', 'SQL', 'Swift']",102
+156,C++;Go;Java;JavaScript;SQL;TypeScript,"Developer, full-stack","['C++', 'Go', 'Java', 'JavaScript', 'SQL', 'TypeScript']",35
+157,C#;HTML/CSS;JavaScript;TypeScript,"Developer, back-end;DevOps specialist","['C#', 'HTML/CSS', 'JavaScript', 'TypeScript']",64
+158,HTML/CSS;JavaScript,Designer,"['HTML/CSS', 'JavaScript']",16
+159,Bash/Shell;Groovy;TypeScript,"Engineer, site reliability;DevOps specialist;Cloud infrastructure engineer;System administrator","['Bash/Shell', 'Groovy', 'TypeScript']",35
+160,C#;HTML/CSS;JavaScript;TypeScript,"Developer, full-stack","['C#', 'HTML/CSS', 'JavaScript', 'TypeScript']",64
+161,Bash/Shell;C#;HTML/CSS;JavaScript;PowerShell;Python,"Developer, full-stack","['Bash/Shell', 'C#', 'HTML/CSS', 'JavaScript', 'PowerShell', 'Python']",64
+162,Python,Database administrator;DevOps specialist;System administrator,['Python'],19
+163,Bash/Shell;Python,Engineering manager,"['Bash/Shell', 'Python']",20
+164,Java;Python;Ruby;SQL,"Developer, back-end","['Java', 'Python', 'Ruby', 'SQL']",102
+165,C#;JavaScript;Kotlin;SQL,"Developer, full-stack;Developer, back-end;Database administrator;DevOps specialist;Cloud infrastructure engineer;Senior Executive (C-Suite, VP, etc.);System administrator","['C#', 'JavaScript', 'Kotlin', 'SQL']",64
+166,Go;Groovy;Java;Python,"Developer, back-end;Developer, desktop or enterprise applications","['Go', 'Groovy', 'Java', 'Python']",102
+168,Bash/Shell;C++;HTML/CSS;JavaScript;Python;R;TypeScript,"Data scientist or machine learning specialist;Engineer, data;Developer, back-end;Data or business analyst","['Bash/Shell', 'C++', 'HTML/CSS', 'JavaScript', 'Python', 'R', 'TypeScript']",113
+169,HTML/CSS;JavaScript;Python;R;SQL;TypeScript,"Developer, full-stack;Student","['HTML/CSS', 'JavaScript', 'Python', 'R', 'SQL', 'TypeScript']",113
+170,Assembly;C;C++,"Developer, embedded applications or devices","['Assembly', 'C', 'C++']",35
+171,Java;Python;TypeScript,"Developer, back-end","['Java', 'Python', 'TypeScript']",102
+172,Bash/Shell;C;Python,"Developer, embedded applications or devices","['Bash/Shell', 'C', 'Python']",35
+173,C++;Python,"Developer, back-end","['C++', 'Python']",25
+176,HTML/CSS;JavaScript;PHP;PowerShell;SQL,System administrator,"['HTML/CSS', 'JavaScript', 'PHP', 'PowerShell', 'SQL']",113
+178,Bash/Shell;Java;JavaScript;PowerShell;Python;SQL,"Developer, desktop or enterprise applications;Cloud infrastructure engineer;Marketing or sales professional","['Bash/Shell', 'Java', 'JavaScript', 'PowerShell', 'Python', 'SQL']",102
+179,Bash/Shell;C++;HTML/CSS;Java;PHP;Python;SQL,"Developer, back-end;DevOps specialist;Developer, embedded applications or devices","['Bash/Shell', 'C++', 'HTML/CSS', 'Java', 'PHP', 'Python', 'SQL']",102
+180,Go;Java;Ruby,"Developer, back-end","['Go', 'Java', 'Ruby']",102
+181,C;C#;C++;Java;JavaScript;Perl;PHP;PowerShell;SQL;TypeScript;VBA,"Developer, back-end;Engineering manager;Database administrator;Cloud infrastructure engineer","['C', 'C#', 'C++', 'Java', 'JavaScript', 'Perl', 'PHP', 'PowerShell', 'SQL', 'TypeScript', 'VBA']",64
+182,Java;Kotlin;Python;SQL,"Developer, back-end","['Java', 'Kotlin', 'Python', 'SQL']",102
+183,C;C#;C++;Fortran;Java;Objective-C;Swift;VBA,Other (please specify):,"['C', 'C#', 'C++', 'Fortran', 'Java', 'Objective-C', 'Swift', 'VBA']",35
+184,Go;Java;Python;SQL,"Developer, back-end;Cloud infrastructure engineer","['Go', 'Java', 'Python', 'SQL']",102
+185,Bash/Shell;C#;HTML/CSS;Java;JavaScript;PHP;Python;Ruby;SQL,"Developer, full-stack;Other (please specify):","['Bash/Shell', 'C#', 'HTML/CSS', 'Java', 'JavaScript', 'PHP', 'Python', 'Ruby', 'SQL']",102
+186,C++;Go;Groovy;Java;JavaScript;PHP;Python;SQL,"Developer, QA or test;Cloud infrastructure engineer","['C++', 'Go', 'Groovy', 'Java', 'JavaScript', 'PHP', 'Python', 'SQL']",102
+187,Bash/Shell;C;Erlang;Python;Rust;SQL,"Developer, back-end;Developer, embedded applications or devices","['Bash/Shell', 'C', 'Erlang', 'Python', 'Rust', 'SQL']",35
+188,Delphi;SQL,"Developer, desktop or enterprise applications","['Delphi', 'SQL']",26
+189,Bash/Shell;HTML/CSS;JavaScript;PHP;SQL;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end","['Bash/Shell', 'HTML/CSS', 'JavaScript', 'PHP', 'SQL', 'TypeScript']",113
+190,Go,"Developer, back-end",['Go'],27
+192,C#;HTML/CSS;JavaScript;SQL,"Developer, full-stack;Developer, desktop or enterprise applications","['C#', 'HTML/CSS', 'JavaScript', 'SQL']",64
+193,Clojure;Java;Rust,"Engineer, data;Developer, back-end","['Clojure', 'Java', 'Rust']",28
+194,Assembly;C;C#;C++;Dart;HTML/CSS;Java;JavaScript;TypeScript,"Developer, back-end","['Assembly', 'C', 'C#', 'C++', 'Dart', 'HTML/CSS', 'Java', 'JavaScript', 'TypeScript']",64
+195,Bash/Shell;C;C#;C++;Go;Java;JavaScript;Python;SQL;Swift;TypeScript,Other (please specify):,"['Bash/Shell', 'C', 'C#', 'C++', 'Go', 'Java', 'JavaScript', 'Python', 'SQL', 'Swift', 'TypeScript']",35
+196,Assembly;Bash/Shell;C;C#;C++;Erlang;Go;Groovy;HTML/CSS;Java;JavaScript;Python,"Developer, back-end","['Assembly', 'Bash/Shell', 'C', 'C#', 'C++', 'Erlang', 'Go', 'Groovy', 'HTML/CSS', 'Java', 'JavaScript', 'Python']",35
+197,Python;Rust;TypeScript,"Data scientist or machine learning specialist;Developer, back-end","['Python', 'Rust', 'TypeScript']",35
+199,Groovy;Java;Python;Rust,Other (please specify):,"['Groovy', 'Java', 'Python', 'Rust']",35
+201,C#;HTML/CSS;JavaScript;Python,"Developer, full-stack;Developer, desktop or enterprise applications","['C#', 'HTML/CSS', 'JavaScript', 'Python']",64
+202,JavaScript;TypeScript,"Developer, front-end","['JavaScript', 'TypeScript']",30
+203,Bash/Shell;C;C++;HTML/CSS;JavaScript;PHP;Python;SQL,"Data scientist or machine learning specialist;Developer, back-end;Academic researcher;Scientist","['Bash/Shell', 'C', 'C++', 'HTML/CSS', 'JavaScript', 'PHP', 'Python', 'SQL']",35
+204,Bash/Shell;Python;SQL,"Engineer, data","['Bash/Shell', 'Python', 'SQL']",102
+205,Bash/Shell;C++;Java;Python,"Developer, back-end;Developer, desktop or enterprise applications;DevOps specialist","['Bash/Shell', 'C++', 'Java', 'Python']",35
+206,C#;JavaScript;PowerShell,"Developer, full-stack;Developer, back-end;Developer, QA or test","['C#', 'JavaScript', 'PowerShell']",64
+207,Bash/Shell;C;C++;Dart;HTML/CSS;Java;JavaScript;Objective-C;Swift,"Developer, full-stack;Engineering manager","['Bash/Shell', 'C', 'C++', 'Dart', 'HTML/CSS', 'Java', 'JavaScript', 'Objective-C', 'Swift']",35
+208,C#;HTML/CSS;SQL;TypeScript,"Developer, full-stack","['C#', 'HTML/CSS', 'SQL', 'TypeScript']",64
+209,C;C++;PHP;Ruby,"Developer, back-end","['C', 'C++', 'PHP', 'Ruby']",35
+210,APL;C#;Java;JavaScript;Python;SQL;TypeScript,Product manager,"['APL', 'C#', 'Java', 'JavaScript', 'Python', 'SQL', 'TypeScript']",64
+211,C#;HTML/CSS;JavaScript;TypeScript,"Developer, front-end","['C#', 'HTML/CSS', 'JavaScript', 'TypeScript']",64
+212,Java,"Developer, back-end;Developer, desktop or enterprise applications",['Java'],34
+213,Bash/Shell;Go;HTML/CSS;Java;JavaScript;Python;SQL,"Developer, full-stack;Student","['Bash/Shell', 'Go', 'HTML/CSS', 'Java', 'JavaScript', 'Python', 'SQL']",102
+214,C;C++;Perl;SQL,"Developer, back-end;Scientist;System administrator","['C', 'C++', 'Perl', 'SQL']",35
+215,C;JavaScript;Python;SQL;TypeScript,"Data scientist or machine learning specialist;Developer, front-end;Engineer, data;Developer, full-stack;Developer, back-end;Scientist","['C', 'JavaScript', 'Python', 'SQL', 'TypeScript']",113
+216,C#;HTML/CSS;JavaScript;SQL,"Developer, front-end;Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications;Engineering manager;DevOps specialist","['C#', 'HTML/CSS', 'JavaScript', 'SQL']",64
+219,C#;Groovy;PowerShell;SQL,"Engineer, site reliability;Developer, back-end;Engineering manager;Database administrator;DevOps specialist;Project manager;Cloud infrastructure engineer;System administrator;Security professional","['C#', 'Groovy', 'PowerShell', 'SQL']",64
+220,C;C#;C++;Erlang;Go;Java;JavaScript;Python;SQL;TypeScript,Other (please specify):,"['C', 'C#', 'C++', 'Erlang', 'Go', 'Java', 'JavaScript', 'Python', 'SQL', 'TypeScript']",35
+221,Bash/Shell;JavaScript;SQL,Other (please specify):,"['Bash/Shell', 'JavaScript', 'SQL']",102
+222,Erlang;Go;Java;JavaScript;Python;SQL,"Developer, back-end","['Erlang', 'Go', 'Java', 'JavaScript', 'Python', 'SQL']",102
+223,C#;C++;HTML/CSS;JavaScript;PowerShell;SQL;TypeScript,"Developer, back-end;Security professional","['C#', 'C++', 'HTML/CSS', 'JavaScript', 'PowerShell', 'SQL', 'TypeScript']",64
+224,JavaScript,"Developer, full-stack;Engineering manager",['JavaScript'],37
+225,Bash/Shell;C;C++;Groovy;HTML/CSS;Java;JavaScript;Python,"Developer, back-end","['Bash/Shell', 'C', 'C++', 'Groovy', 'HTML/CSS', 'Java', 'JavaScript', 'Python']",35
+226,C#;SQL,"Developer, full-stack","['C#', 'SQL']",38
+227,C#;PowerShell;SQL,Project manager;Marketing or sales professional,"['C#', 'PowerShell', 'SQL']",64
+229,C#;HTML/CSS;JavaScript;PowerShell;Python;SQL,"Developer, full-stack;Developer, desktop or enterprise applications;Engineering manager;Database administrator;DevOps specialist","['C#', 'HTML/CSS', 'JavaScript', 'PowerShell', 'Python', 'SQL']",64
+230,Go,"Developer, back-end;Cloud infrastructure engineer",['Go'],39
+232,Bash/Shell;C;HTML/CSS;Java;JavaScript;Kotlin;Python;Rust;SQL;TypeScript,"Developer, back-end;Student","['Bash/Shell', 'C', 'HTML/CSS', 'Java', 'JavaScript', 'Kotlin', 'Python', 'Rust', 'SQL', 'TypeScript']",102
+233,Python;Scala;SQL,"Engineer, data","['Python', 'Scala', 'SQL']",102
+234,C#;HTML/CSS;JavaScript;SQL;TypeScript,"Developer, full-stack","['C#', 'HTML/CSS', 'JavaScript', 'SQL', 'TypeScript']",64
+235,Bash/Shell;Go,"Developer, back-end;Cloud infrastructure engineer","['Bash/Shell', 'Go']",41
+236,C;HTML/CSS;Python;SQL,Engineering manager,"['C', 'HTML/CSS', 'Python', 'SQL']",35
+237,C#;Dart;JavaScript,"Developer, back-end","['C#', 'Dart', 'JavaScript']",64
+238,Bash/Shell;HTML/CSS;Java;JavaScript;Python;Scala;SQL,Engineering manager,"['Bash/Shell', 'HTML/CSS', 'Java', 'JavaScript', 'Python', 'Scala', 'SQL']",102
+239,Delphi,"Developer, desktop or enterprise applications",['Delphi'],42
+240,Bash/Shell;Go;HTML/CSS;Python;SQL,"Developer, back-end;Project manager;Product manager;System administrator;Security professional","['Bash/Shell', 'Go', 'HTML/CSS', 'Python', 'SQL']",102
+241,HTML/CSS;Python;Ruby;SQL;VBA,Data or business analyst,"['HTML/CSS', 'Python', 'Ruby', 'SQL', 'VBA']",102
+242,HTML/CSS;JavaScript;PHP;Python;SQL,"Data scientist or machine learning specialist;Engineer, data;Database administrator;Data or business analyst","['HTML/CSS', 'JavaScript', 'PHP', 'Python', 'SQL']",113
+243,C#;HTML/CSS;Java;JavaScript,System administrator,"['C#', 'HTML/CSS', 'Java', 'JavaScript']",64
+244,Bash/Shell;C;Java;Python,"Developer, embedded applications or devices;Data or business analyst","['Bash/Shell', 'C', 'Java', 'Python']",35
+245,C#;HTML/CSS;JavaScript;SQL;VBA,"Developer, desktop or enterprise applications","['C#', 'HTML/CSS', 'JavaScript', 'SQL', 'VBA']",64
+246,HTML/CSS;JavaScript;MATLAB;Python;R;Rust;SQL,Data scientist or machine learning specialist;Academic researcher,"['HTML/CSS', 'JavaScript', 'MATLAB', 'Python', 'R', 'Rust', 'SQL']",113
+247,Go;HTML/CSS;JavaScript;Kotlin;PHP;Python;SQL,"Developer, front-end;Developer, full-stack;Developer, back-end;Database administrator","['Go', 'HTML/CSS', 'JavaScript', 'Kotlin', 'PHP', 'Python', 'SQL']",113
+248,C#;C++;HTML/CSS;JavaScript;SQL;Swift;TypeScript,"Senior Executive (C-Suite, VP, etc.)","['C#', 'C++', 'HTML/CSS', 'JavaScript', 'SQL', 'Swift', 'TypeScript']",64
+249,Bash/Shell;C;Java;JavaScript,Marketing or sales professional,"['Bash/Shell', 'C', 'Java', 'JavaScript']",35
+250,Python,"Data scientist or machine learning specialist;Engineer, data;Developer, back-end;Blockchain",['Python'],44
+251,C++;HTML/CSS;JavaScript;PHP;Python,"Developer, front-end;Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications;Developer, mobile;Developer, game or graphics;Designer","['C++', 'HTML/CSS', 'JavaScript', 'PHP', 'Python']",113
+252,C++;HTML/CSS;Python;Rust;SQL,"Developer, back-end;Developer, desktop or enterprise applications;Project manager","['C++', 'HTML/CSS', 'Python', 'Rust', 'SQL']",35
+253,C#,"Developer, front-end;Student;Developer, game or graphics;Project manager;Designer",['C#'],45
+254,C#;HTML/CSS;Java;JavaScript;TypeScript,"Developer, full-stack;Developer, back-end;DevOps specialist;Cloud infrastructure engineer;Designer","['C#', 'HTML/CSS', 'Java', 'JavaScript', 'TypeScript']",64
+255,Bash/Shell;Go;Groovy;Java;Python;Ruby,DevOps specialist,"['Bash/Shell', 'Go', 'Groovy', 'Java', 'Python', 'Ruby']",102
+256,Assembly;C;C++,"Engineering manager;Developer, embedded applications or devices","['Assembly', 'C', 'C++']",35
+257,Bash/Shell;Go;JavaScript;Python,"Developer, back-end","['Bash/Shell', 'Go', 'JavaScript', 'Python']",102
+258,Bash/Shell;C;C#;C++;HTML/CSS;Java;JavaScript;MATLAB;PHP;PowerShell;Python;SQL;TypeScript,"Developer, full-stack;Developer, back-end","['Bash/Shell', 'C', 'C#', 'C++', 'HTML/CSS', 'Java', 'JavaScript', 'MATLAB', 'PHP', 'PowerShell', 'Python', 'SQL', 'TypeScript']",64
+259,C;Haskell;JavaScript;Python;Rust;SQL,"Developer, back-end","['C', 'Haskell', 'JavaScript', 'Python', 'Rust', 'SQL']",35
+260,Clojure;Python;Ruby;Scala,Engineering manager,"['Clojure', 'Python', 'Ruby', 'Scala']",102
+261,C#;HTML/CSS;JavaScript;PHP;SQL;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end;Database administrator","['C#', 'HTML/CSS', 'JavaScript', 'PHP', 'SQL', 'TypeScript']",64
+262,C#;HTML/CSS;JavaScript;SQL;VBA,"Developer, full-stack","['C#', 'HTML/CSS', 'JavaScript', 'SQL', 'VBA']",64
+263,Assembly;Bash/Shell;Lua;Python;Rust,Other (please specify):,"['Assembly', 'Bash/Shell', 'Lua', 'Python', 'Rust']",35
+264,C;C++;Python;Rust;SQL,"Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices","['C', 'C++', 'Python', 'Rust', 'SQL']",35
+265,Bash/Shell;Java;Python;Scala;SQL,"Engineer, data","['Bash/Shell', 'Java', 'Python', 'Scala', 'SQL']",102
+266,Bash/Shell;Groovy;Java;JavaScript;PHP;Python;Rust;SQL,"Developer, back-end","['Bash/Shell', 'Groovy', 'Java', 'JavaScript', 'PHP', 'Python', 'Rust', 'SQL']",102
+267,C;C#;C++;Go;Python;Rust,"Developer, back-end","['C', 'C#', 'C++', 'Go', 'Python', 'Rust']",35
+268,Bash/Shell;JavaScript;Python;SQL;TypeScript,"Developer, full-stack;Developer, back-end;Developer, QA or test;Cloud infrastructure engineer","['Bash/Shell', 'JavaScript', 'Python', 'SQL', 'TypeScript']",102
+269,HTML/CSS;JavaScript;Python,"Developer, front-end;Academic researcher;Designer","['HTML/CSS', 'JavaScript', 'Python']",102
+270,Bash/Shell;C#;HTML/CSS;JavaScript;PowerShell;Python;Rust;SQL;TypeScript,"Engineer, site reliability;Developer, back-end;DevOps specialist;Cloud infrastructure engineer;System administrator","['Bash/Shell', 'C#', 'HTML/CSS', 'JavaScript', 'PowerShell', 'Python', 'Rust', 'SQL', 'TypeScript']",64
+271,C;C++;HTML/CSS;Java;JavaScript;Python,"Student;Developer, embedded applications or devices","['C', 'C++', 'HTML/CSS', 'Java', 'JavaScript', 'Python']",35
+272,Bash/Shell;Go;HTML/CSS;JavaScript,"Developer, back-end;Developer, desktop or enterprise applications","['Bash/Shell', 'Go', 'HTML/CSS', 'JavaScript']",102
+273,C#;Dart;Go;Java;Kotlin;Python;Rust;SQL;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications","['C#', 'Dart', 'Go', 'Java', 'Kotlin', 'Python', 'Rust', 'SQL', 'TypeScript']",102
+274,Bash/Shell;C;C#;C++;Java;PowerShell,"Engineer, site reliability;Developer, full-stack;Developer, back-end;Educator;Other (please specify):","['Bash/Shell', 'C', 'C#', 'C++', 'Java', 'PowerShell']",35
+275,Bash/Shell;Delphi;HTML/CSS;PowerShell;Python;Ruby;SQL;TypeScript,"Developer, back-end;Database administrator;DevOps specialist;Cloud infrastructure engineer","['Bash/Shell', 'Delphi', 'HTML/CSS', 'PowerShell', 'Python', 'Ruby', 'SQL', 'TypeScript']",102
+276,C#;HTML/CSS;JavaScript;SQL,"Developer, full-stack;Developer, back-end;Developer, QA or test","['C#', 'HTML/CSS', 'JavaScript', 'SQL']",64
+277,Bash/Shell;Go;HTML/CSS;JavaScript;PHP;Python;SQL,"Developer, back-end","['Bash/Shell', 'Go', 'HTML/CSS', 'JavaScript', 'PHP', 'Python', 'SQL']",102
+278,Bash/Shell;HTML/CSS;JavaScript;Python;R;SQL,"Engineer, data;Developer, full-stack;Developer, back-end;DevOps specialist;Data or business analyst","['Bash/Shell', 'HTML/CSS', 'JavaScript', 'Python', 'R', 'SQL']",102
+279,C#;JavaScript;Python,"Developer, front-end;Developer, full-stack","['C#', 'JavaScript', 'Python']",64
+280,C#;HTML/CSS;JavaScript;TypeScript,"Developer, front-end","['C#', 'HTML/CSS', 'JavaScript', 'TypeScript']",64
+281,Bash/Shell;C++;Java;Python,"Developer, back-end","['Bash/Shell', 'C++', 'Java', 'Python']",35
+282,C#;Go;Rust;TypeScript,"Developer, full-stack;Developer, mobile","['C#', 'Go', 'Rust', 'TypeScript']",35
+283,Assembly;C++;Python;Rust,"Developer, embedded applications or devices","['Assembly', 'C++', 'Python', 'Rust']",35
+284,Ruby,Project manager,['Ruby'],54
+285,C#;C++;HTML/CSS;Java;JavaScript;Kotlin;PHP;SQL;TypeScript;VBA,"Developer, mobile;Database administrator;Project manager;Product manager","['C#', 'C++', 'HTML/CSS', 'Java', 'JavaScript', 'Kotlin', 'PHP', 'SQL', 'TypeScript', 'VBA']",64
+286,C#;JavaScript;PowerShell;SQL,Security professional,"['C#', 'JavaScript', 'PowerShell', 'SQL']",64
+287,Bash/Shell;HTML/CSS;Java;JavaScript;PowerShell;Python;Rust;SQL;TypeScript,"Developer, full-stack","['Bash/Shell', 'HTML/CSS', 'Java', 'JavaScript', 'PowerShell', 'Python', 'Rust', 'SQL', 'TypeScript']",102
+288,Bash/Shell;HTML/CSS;Java;JavaScript;Kotlin;SQL;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end","['Bash/Shell', 'HTML/CSS', 'Java', 'JavaScript', 'Kotlin', 'SQL', 'TypeScript']",113
+289,C;JavaScript;Python;Scala,"Data scientist or machine learning specialist;Developer, back-end","['C', 'JavaScript', 'Python', 'Scala']",35
+290,Assembly;Bash/Shell;C++;F#;JavaScript;Lua;Rust,"Developer, desktop or enterprise applications","['Assembly', 'Bash/Shell', 'C++', 'F#', 'JavaScript', 'Lua', 'Rust']",35
+291,C#;Dart;HTML/CSS;JavaScript;PowerShell;Python;TypeScript,"Developer, full-stack","['C#', 'Dart', 'HTML/CSS', 'JavaScript', 'PowerShell', 'Python', 'TypeScript']",64
+292,C++;HTML/CSS;Java;JavaScript;PHP;SQL;TypeScript,"Developer, front-end;Developer, full-stack","['C++', 'HTML/CSS', 'Java', 'JavaScript', 'PHP', 'SQL', 'TypeScript']",113
+293,Bash/Shell;C#;Go;HTML/CSS;Java;JavaScript;Kotlin;Python;SQL,"Developer, full-stack","['Bash/Shell', 'C#', 'Go', 'HTML/CSS', 'Java', 'JavaScript', 'Kotlin', 'Python', 'SQL']",102
+294,Bash/Shell;C#;C++;Dart;HTML/CSS;Java;JavaScript;PowerShell;SQL;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end;Student;Database administrator","['Bash/Shell', 'C#', 'C++', 'Dart', 'HTML/CSS', 'Java', 'JavaScript', 'PowerShell', 'SQL', 'TypeScript']",64
+295,HTML/CSS;JavaScript;Python;SQL,Data scientist or machine learning specialist;Data or business analyst,"['HTML/CSS', 'JavaScript', 'Python', 'SQL']",113
+296,Bash/Shell;Elixir;Go;Java;JavaScript;PHP;Rust;SQL,Educator,"['Bash/Shell', 'Elixir', 'Go', 'Java', 'JavaScript', 'PHP', 'Rust', 'SQL']",102
+297,Bash/Shell;Python,"Data scientist or machine learning specialist;Engineer, data;Developer, back-end","['Bash/Shell', 'Python']",57
+298,Bash/Shell;Go;HTML/CSS;JavaScript;SQL,"Developer, back-end","['Bash/Shell', 'Go', 'HTML/CSS', 'JavaScript', 'SQL']",113
+299,C;C++,"Developer, back-end","['C', 'C++']",60
+300,C#;C++;HTML/CSS;Java;JavaScript;Perl;PowerShell;Python;Ruby;SAS;SQL;TypeScript;VBA,"Developer, front-end;Developer, full-stack;Developer, back-end;Developer, QA or test","['C#', 'C++', 'HTML/CSS', 'Java', 'JavaScript', 'Perl', 'PowerShell', 'Python', 'Ruby', 'SAS', 'SQL', 'TypeScript', 'VBA']",64
+301,JavaScript;Python,"Developer, full-stack","['JavaScript', 'Python']",61
+302,Dart,"Developer, front-end;Developer, mobile",['Dart'],62
+303,HTML/CSS;JavaScript;Python;TypeScript,"Developer, full-stack","['HTML/CSS', 'JavaScript', 'Python', 'TypeScript']",113
+304,Clojure;Python;Rust;Scala,"Developer, back-end;Engineering manager;Project manager;Data or business analyst","['Clojure', 'Python', 'Rust', 'Scala']",35
+305,HTML/CSS;JavaScript;PHP;Ruby;SQL,"Developer, full-stack","['HTML/CSS', 'JavaScript', 'PHP', 'Ruby', 'SQL']",113
+306,C#;HTML/CSS;Java;JavaScript;Python;SQL,"Developer, front-end;Developer, full-stack;Developer, back-end","['C#', 'HTML/CSS', 'Java', 'JavaScript', 'Python', 'SQL']",64
+308,Bash/Shell;C#;Go;HTML/CSS;JavaScript;PowerShell;Python,"Developer, back-end;DevOps specialist;Cloud infrastructure engineer","['Bash/Shell', 'C#', 'Go', 'HTML/CSS', 'JavaScript', 'PowerShell', 'Python']",64
+309,Go;Python;SQL,"Developer, back-end","['Go', 'Python', 'SQL']",102
+310,C#;HTML/CSS;JavaScript;Python,"Developer, back-end;Student","['C#', 'HTML/CSS', 'JavaScript', 'Python']",64
+311,Python;Rust,"Developer, back-end;Student","['Python', 'Rust']",66
+312,C#;HTML/CSS;JavaScript;Lua;PowerShell;SQL;VBA,"Developer, full-stack;Project manager","['C#', 'HTML/CSS', 'JavaScript', 'Lua', 'PowerShell', 'SQL', 'VBA']",64
+313,HTML/CSS;JavaScript;PHP;TypeScript,"Developer, front-end","['HTML/CSS', 'JavaScript', 'PHP', 'TypeScript']",113
+314,C#;HTML/CSS;JavaScript;PowerShell;SQL;TypeScript,"Developer, full-stack","['C#', 'HTML/CSS', 'JavaScript', 'PowerShell', 'SQL', 'TypeScript']",64
+316,Bash/Shell;Go;Python,"Engineer, data;Developer, back-end","['Bash/Shell', 'Go', 'Python']",35
+317,HTML/CSS;JavaScript;Python;Scala;SQL;TypeScript,"Developer, back-end;Engineering manager;Cloud infrastructure engineer","['HTML/CSS', 'JavaScript', 'Python', 'Scala', 'SQL', 'TypeScript']",113
+318,Bash/Shell;C#;PowerShell;SQL,"Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications;DevOps specialist","['Bash/Shell', 'C#', 'PowerShell', 'SQL']",64
+319,Dart;Kotlin;Python;Ruby;Swift;TypeScript,"Developer, mobile","['Dart', 'Kotlin', 'Python', 'Ruby', 'Swift', 'TypeScript']",102
+320,Rust;VBA,Engineering manager,"['Rust', 'VBA']",68
+321,Python;Swift,Product manager,"['Python', 'Swift']",69
+322,C#;C++;HTML/CSS;Java;JavaScript;MATLAB;Rust;SQL,"Developer, full-stack;Developer, back-end","['C#', 'C++', 'HTML/CSS', 'Java', 'JavaScript', 'MATLAB', 'Rust', 'SQL']",64
+323,Bash/Shell;Erlang;Go;Groovy;Java;JavaScript;Lua;Python;Ruby,"Engineer, site reliability;Developer, back-end;Cloud infrastructure engineer","['Bash/Shell', 'Erlang', 'Go', 'Groovy', 'Java', 'JavaScript', 'Lua', 'Python', 'Ruby']",102
+324,Bash/Shell;Clojure;Java;SQL,"Developer, back-end;Developer, QA or test","['Bash/Shell', 'Clojure', 'Java', 'SQL']",102
+325,Bash/Shell;C;C++;Java;JavaScript;LISP;Objective-C;Python,"Developer, embedded applications or devices","['Bash/Shell', 'C', 'C++', 'Java', 'JavaScript', 'LISP', 'Objective-C', 'Python']",35
+326,C;C#;C++;Crystal;Dart;Go;Groovy;HTML/CSS;Java;JavaScript;Kotlin;Objective-C;Python;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end","['C', 'C#', 'C++', 'Crystal', 'Dart', 'Go', 'Groovy', 'HTML/CSS', 'Java', 'JavaScript', 'Kotlin', 'Objective-C', 'Python', 'TypeScript']",35
+327,C#;C++;Python;Rust,"Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Designer","['C#', 'C++', 'Python', 'Rust']",35
+328,Bash/Shell;Elixir;Python;Ruby;Rust,"Developer, back-end;Developer, QA or test;Developer, embedded applications or devices;Cloud infrastructure engineer","['Bash/Shell', 'Elixir', 'Python', 'Ruby', 'Rust']",35
+329,C++;Java;JavaScript;SQL,"Developer, mobile","['C++', 'Java', 'JavaScript', 'SQL']",35
+330,Bash/Shell;C#;C++;Fortran;LISP;MATLAB;PowerShell;Python;Rust,Student;Academic researcher;Scientist,"['Bash/Shell', 'C#', 'C++', 'Fortran', 'LISP', 'MATLAB', 'PowerShell', 'Python', 'Rust']",35
+331,C;C#;C++;HTML/CSS;JavaScript;Rust;TypeScript,"Developer, front-end;Developer, full-stack","['C', 'C#', 'C++', 'HTML/CSS', 'JavaScript', 'Rust', 'TypeScript']",35
+332,Bash/Shell;C#;PowerShell;Python,"Engineer, site reliability;DevOps specialist;Cloud infrastructure engineer","['Bash/Shell', 'C#', 'PowerShell', 'Python']",64
+334,Assembly;Bash/Shell;C;C++;Python;SQL,"Developer, embedded applications or devices","['Assembly', 'Bash/Shell', 'C', 'C++', 'Python', 'SQL']",35
+335,C;Python,"Engineering manager;Developer, embedded applications or devices","['C', 'Python']",73
+336,Perl;SQL,"Developer, back-end","['Perl', 'SQL']",74
+337,Bash/Shell;C;C++;HTML/CSS;JavaScript;Python;SQL,Data scientist or machine learning specialist;Academic researcher,"['Bash/Shell', 'C', 'C++', 'HTML/CSS', 'JavaScript', 'Python', 'SQL']",35
+338,C++;JavaScript;Python;Rust;TypeScript,"Developer, desktop or enterprise applications","['C++', 'JavaScript', 'Python', 'Rust', 'TypeScript']",35
+339,Bash/Shell;HTML/CSS;JavaScript;PHP;SQL,"Developer, full-stack;Developer, desktop or enterprise applications;Developer, mobile","['Bash/Shell', 'HTML/CSS', 'JavaScript', 'PHP', 'SQL']",113
+340,C#;Dart;HTML/CSS;JavaScript;PHP;Python;SQL;TypeScript,"Developer, full-stack;Student","['C#', 'Dart', 'HTML/CSS', 'JavaScript', 'PHP', 'Python', 'SQL', 'TypeScript']",64
+341,C#;HTML/CSS;SQL;VBA,"Developer, full-stack;Developer, desktop or enterprise applications","['C#', 'HTML/CSS', 'SQL', 'VBA']",64
+342,Delphi;HTML/CSS;JavaScript;PHP,"Developer, full-stack;Developer, desktop or enterprise applications;Project manager","['Delphi', 'HTML/CSS', 'JavaScript', 'PHP']",113
+343,Bash/Shell;HTML/CSS;JavaScript;PHP;Rust;SQL,"Developer, full-stack","['Bash/Shell', 'HTML/CSS', 'JavaScript', 'PHP', 'Rust', 'SQL']",113
+344,Bash/Shell;Go;Python,"Developer, back-end;Cloud infrastructure engineer","['Bash/Shell', 'Go', 'Python']",35
+345,Bash/Shell;HTML/CSS;Java;JavaScript;Kotlin;Python;Ruby;SQL;TypeScript,"Developer, back-end","['Bash/Shell', 'HTML/CSS', 'Java', 'JavaScript', 'Kotlin', 'Python', 'Ruby', 'SQL', 'TypeScript']",102
+346,Bash/Shell;Java;PowerShell;SQL;VBA,Database administrator;System administrator,"['Bash/Shell', 'Java', 'PowerShell', 'SQL', 'VBA']",102
+347,Bash/Shell;C#;Dart;Go;HTML/CSS;Java;JavaScript;Rust;TypeScript,"Engineer, data;Developer, full-stack","['Bash/Shell', 'C#', 'Dart', 'Go', 'HTML/CSS', 'Java', 'JavaScript', 'Rust', 'TypeScript']",64
+348,Bash/Shell;C++;HTML/CSS;Java;JavaScript;Python;SQL,"Developer, full-stack;Product manager","['Bash/Shell', 'C++', 'HTML/CSS', 'Java', 'JavaScript', 'Python', 'SQL']",102
+349,HTML/CSS;Java;JavaScript;Kotlin;Python;TypeScript,"Developer, full-stack;Developer, mobile;Educator","['HTML/CSS', 'Java', 'JavaScript', 'Kotlin', 'Python', 'TypeScript']",113
+350,Bash/Shell;Perl;SQL,"Developer, back-end","['Bash/Shell', 'Perl', 'SQL']",35
+352,Bash/Shell;C++;Go;Python,"Developer, desktop or enterprise applications","['Bash/Shell', 'C++', 'Go', 'Python']",35
+353,JavaScript;TypeScript,"Developer, front-end","['JavaScript', 'TypeScript']",82
+354,Bash/Shell;JavaScript;Rust;TypeScript,"Developer, full-stack","['Bash/Shell', 'JavaScript', 'Rust', 'TypeScript']",35
+355,Bash/Shell;C#;HTML/CSS;JavaScript;PowerShell;SQL;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end;Cloud infrastructure engineer","['Bash/Shell', 'C#', 'HTML/CSS', 'JavaScript', 'PowerShell', 'SQL', 'TypeScript']",64
+357,Kotlin,"Developer, mobile",['Kotlin'],85
+358,Bash/Shell;Java;JavaScript;PHP;SQL,"Engineer, data;Developer, desktop or enterprise applications;Engineering manager","['Bash/Shell', 'Java', 'JavaScript', 'PHP', 'SQL']",102
+359,C#;Dart;Go;JavaScript;Swift;TypeScript,"Developer, mobile","['C#', 'Dart', 'Go', 'JavaScript', 'Swift', 'TypeScript']",64
+360,Assembly;Bash/Shell;C;MATLAB;Python,"Developer, embedded applications or devices","['Assembly', 'Bash/Shell', 'C', 'MATLAB', 'Python']",35
+361,C;C#;C++;HTML/CSS;JavaScript;Kotlin;Lua;PowerShell;Rust;SQL;TypeScript,"Engineer, site reliability;Developer, full-stack;Cloud infrastructure engineer","['C', 'C#', 'C++', 'HTML/CSS', 'JavaScript', 'Kotlin', 'Lua', 'PowerShell', 'Rust', 'SQL', 'TypeScript']",64
+362,Bash/Shell;C++;Dart;Go;HTML/CSS;Java;JavaScript;Python;Rust;SQL,"Developer, full-stack","['Bash/Shell', 'C++', 'Dart', 'Go', 'HTML/CSS', 'Java', 'JavaScript', 'Python', 'Rust', 'SQL']",35
+363,Bash/Shell;C;Go;Rust;SQL;TypeScript,"Developer, back-end;Developer, embedded applications or devices","['Bash/Shell', 'C', 'Go', 'Rust', 'SQL', 'TypeScript']",35
+364,C#;Java;JavaScript;Lua;PowerShell;Python;SQL,"Developer, full-stack;DevOps specialist;Cloud infrastructure engineer;System administrator","['C#', 'Java', 'JavaScript', 'Lua', 'PowerShell', 'Python', 'SQL']",64
+365,C#;Java,"Developer, desktop or enterprise applications","['C#', 'Java']",86
+366,C#;Elixir;PowerShell;SQL;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications;Developer, QA or test;Developer, mobile;Educator;Engineering manager;Database administrator;DevOps specialist;Project manager;Cloud infrastructure engineer;Designer;Product manager;System administrator","['C#', 'Elixir', 'PowerShell', 'SQL', 'TypeScript']",64
+367,Java;Python;SQL,"Engineer, data;Developer, back-end;Educator;Academic researcher;Data or business analyst","['Java', 'Python', 'SQL']",102
+368,Go;MATLAB;Python;Rust,"Data scientist or machine learning specialist;Engineer, data;Data or business analyst","['Go', 'MATLAB', 'Python', 'Rust']",35
+369,Bash/Shell;C;C#;C++;F#;HTML/CSS;JavaScript;PowerShell;Python;SQL;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end;DevOps specialist","['Bash/Shell', 'C', 'C#', 'C++', 'F#', 'HTML/CSS', 'JavaScript', 'PowerShell', 'Python', 'SQL', 'TypeScript']",64
+371,Bash/Shell;HTML/CSS;JavaScript;PHP;Python;SQL,"Developer, front-end;Developer, full-stack;Developer, back-end;Database administrator;DevOps specialist;Cloud infrastructure engineer;System administrator","['Bash/Shell', 'HTML/CSS', 'JavaScript', 'PHP', 'Python', 'SQL']",113
+372,Go;Rust,"Developer, back-end;Designer","['Go', 'Rust']",87
+373,Python;Rust,"Engineer, data;Developer, back-end","['Python', 'Rust']",88
+374,C#;Java;Kotlin;SQL;TypeScript,"Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications","['C#', 'Java', 'Kotlin', 'SQL', 'TypeScript']",64
+375,JavaScript;SQL,"Developer, full-stack;Developer, back-end","['JavaScript', 'SQL']",89
+376,Go;Python,"Developer, QA or test","['Go', 'Python']",91
+377,Bash/Shell;C;C++,"Developer, back-end;Developer, desktop or enterprise applications;Student","['Bash/Shell', 'C', 'C++']",35
+379,Go;JavaScript;PHP;Rust;SQL,"Developer, front-end;Developer, back-end;Database administrator;Cloud infrastructure engineer;System administrator;Security professional","['Go', 'JavaScript', 'PHP', 'Rust', 'SQL']",113
+380,HTML/CSS;Rust,"Developer, desktop or enterprise applications;Academic researcher","['HTML/CSS', 'Rust']",92
+381,Bash/Shell;C#;HTML/CSS;Java;JavaScript;Lua;PowerShell;Python;SQL,"Developer, front-end;Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications;Student;DevOps specialist;Cloud infrastructure engineer;Designer","['Bash/Shell', 'C#', 'HTML/CSS', 'Java', 'JavaScript', 'Lua', 'PowerShell', 'Python', 'SQL']",64
+382,APL;Assembly;Bash/Shell;HTML/CSS;JavaScript;SQL,"Developer, front-end;Engineer, data;Other (please specify):;Data or business analyst","['APL', 'Assembly', 'Bash/Shell', 'HTML/CSS', 'JavaScript', 'SQL']",113
+383,Bash/Shell;HTML/CSS;JavaScript;Rust;SQL;TypeScript,"Developer, back-end","['Bash/Shell', 'HTML/CSS', 'JavaScript', 'Rust', 'SQL', 'TypeScript']",113
+384,Assembly;Bash/Shell;C;C++;HTML/CSS;JavaScript;Kotlin;Lua;PHP;Python;Rust;SQL,"Developer, full-stack;System administrator","['Assembly', 'Bash/Shell', 'C', 'C++', 'HTML/CSS', 'JavaScript', 'Kotlin', 'Lua', 'PHP', 'Python', 'Rust', 'SQL']",35
+386,Bash/Shell;HTML/CSS;Java;JavaScript;Kotlin;Python;Ruby;SQL;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end;DevOps specialist;Cloud infrastructure engineer;Security professional","['Bash/Shell', 'HTML/CSS', 'Java', 'JavaScript', 'Kotlin', 'Python', 'Ruby', 'SQL', 'TypeScript']",102
+387,HTML/CSS;Java;TypeScript,"Developer, full-stack","['HTML/CSS', 'Java', 'TypeScript']",113
+388,Java;JavaScript;SQL,"Developer, full-stack","['Java', 'JavaScript', 'SQL']",102
+389,Bash/Shell;HTML/CSS;JavaScript;PHP;TypeScript,"Developer, full-stack;Engineering manager;Cloud infrastructure engineer;Security professional","['Bash/Shell', 'HTML/CSS', 'JavaScript', 'PHP', 'TypeScript']",113
+390,C#,"Developer, desktop or enterprise applications",['C#'],94
+391,Java;JavaScript,"Developer, back-end;Developer, desktop or enterprise applications","['Java', 'JavaScript']",95
+392,C#;Elixir;Erlang;F#;Go;HTML/CSS;JavaScript;PowerShell;Rust;SQL;Swift;TypeScript,"Senior Executive (C-Suite, VP, etc.)","['C#', 'Elixir', 'Erlang', 'F#', 'Go', 'HTML/CSS', 'JavaScript', 'PowerShell', 'Rust', 'SQL', 'Swift', 'TypeScript']",64
+393,Go;JavaScript;Rust;TypeScript,"Developer, front-end;Engineer, site reliability;Developer, full-stack;Developer, back-end;DevOps specialist;Cloud infrastructure engineer","['Go', 'JavaScript', 'Rust', 'TypeScript']",35
+394,C#;HTML/CSS;JavaScript;PowerShell;SQL;TypeScript,"Developer, full-stack;Developer, desktop or enterprise applications","['C#', 'HTML/CSS', 'JavaScript', 'PowerShell', 'SQL', 'TypeScript']",64
+395,APL;Bash/Shell;C;C++;Go;Haskell;LISP;Perl;Python;Rust,"Developer, back-end","['APL', 'Bash/Shell', 'C', 'C++', 'Go', 'Haskell', 'LISP', 'Perl', 'Python', 'Rust']",35
+396,C#;C++;HTML/CSS;Python;Rust;SQL;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end","['C#', 'C++', 'HTML/CSS', 'Python', 'Rust', 'SQL', 'TypeScript']",64
+397,C#;HTML/CSS;JavaScript;PowerShell;Python;SQL,"Developer, full-stack","['C#', 'HTML/CSS', 'JavaScript', 'PowerShell', 'Python', 'SQL']",64
+398,C#;HTML/CSS;JavaScript;PowerShell;SQL;TypeScript,"Developer, full-stack","['C#', 'HTML/CSS', 'JavaScript', 'PowerShell', 'SQL', 'TypeScript']",64
+399,C#;C++,"Developer, desktop or enterprise applications;Engineering manager;Developer, embedded applications or devices;Developer, game or graphics","['C#', 'C++']",96
+400,Bash/Shell;C;C++;Go;HTML/CSS;Perl;Python;SQL,"Developer, back-end;Security professional","['Bash/Shell', 'C', 'C++', 'Go', 'HTML/CSS', 'Perl', 'Python', 'SQL']",35
+401,Bash/Shell;C++;Python;SQL,Data or business analyst,"['Bash/Shell', 'C++', 'Python', 'SQL']",35
+402,Bash/Shell;C#;Java;Kotlin;PowerShell;Python;SQL;VBA,"Developer, back-end;Developer, desktop or enterprise applications","['Bash/Shell', 'C#', 'Java', 'Kotlin', 'PowerShell', 'Python', 'SQL', 'VBA']",102
+403,Go;HTML/CSS;JavaScript;TypeScript,"Developer, front-end;Developer, full-stack;DevOps specialist","['Go', 'HTML/CSS', 'JavaScript', 'TypeScript']",113
+404,HTML/CSS;JavaScript;TypeScript,"Developer, front-end;Developer, full-stack","['HTML/CSS', 'JavaScript', 'TypeScript']",113
+405,Bash/Shell;C;C#;C++;HTML/CSS;Java;JavaScript;Python;SQL,"Developer, full-stack","['Bash/Shell', 'C', 'C#', 'C++', 'HTML/CSS', 'Java', 'JavaScript', 'Python', 'SQL']",35
+406,Bash/Shell;Elixir;Go;Haskell;JavaScript,"Developer, full-stack","['Bash/Shell', 'Elixir', 'Go', 'Haskell', 'JavaScript']",35
+407,HTML/CSS;JavaScript;Kotlin;Python;Rust;TypeScript,"Data scientist or machine learning specialist;Developer, front-end;Developer, full-stack;Developer, back-end;Engineering manager;Senior Executive (C-Suite, VP, etc.)","['HTML/CSS', 'JavaScript', 'Kotlin', 'Python', 'Rust', 'TypeScript']",113
+408,Assembly;C#;C++;HTML/CSS;JavaScript;PowerShell;SQL,"Developer, full-stack;Developer, QA or test;Student","['Assembly', 'C#', 'C++', 'HTML/CSS', 'JavaScript', 'PowerShell', 'SQL']",64
+409,Assembly;C;C++;JavaScript;Lua;Rust;TypeScript,"Developer, back-end;Developer, game or graphics;Blockchain","['Assembly', 'C', 'C++', 'JavaScript', 'Lua', 'Rust', 'TypeScript']",35
+410,Assembly;C++;Go;JavaScript;Rust;Solidity;Swift,Security professional,"['Assembly', 'C++', 'Go', 'JavaScript', 'Rust', 'Solidity', 'Swift']",35
+411,Bash/Shell;C++;HTML/CSS;JavaScript;Python;Ruby;Rust;SQL,"Developer, back-end","['Bash/Shell', 'C++', 'HTML/CSS', 'JavaScript', 'Python', 'Ruby', 'Rust', 'SQL']",35
+412,Bash/Shell;HTML/CSS;JavaScript;PHP;Rust;SQL;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications","['Bash/Shell', 'HTML/CSS', 'JavaScript', 'PHP', 'Rust', 'SQL', 'TypeScript']",113
+413,HTML/CSS;JavaScript;Rust;SQL,"Developer, full-stack;Senior Executive (C-Suite, VP, etc.)","['HTML/CSS', 'JavaScript', 'Rust', 'SQL']",113
+414,Java;Python,Marketing or sales professional,"['Java', 'Python']",98
+415,Assembly;Bash/Shell;C;C#;C++;Delphi;Groovy;HTML/CSS;Java;Perl;PowerShell;Python;Rust,"Developer, QA or test;Other (please specify):","['Assembly', 'Bash/Shell', 'C', 'C#', 'C++', 'Delphi', 'Groovy', 'HTML/CSS', 'Java', 'Perl', 'PowerShell', 'Python', 'Rust']",35
+417,Bash/Shell;C;C++;HTML/CSS;JavaScript;MATLAB;PHP;Python;Rust;SQL;TypeScript,"Developer, front-end;Engineer, site reliability;Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications;Database administrator;DevOps specialist;Designer;Scientist;System administrator;Security professional","['Bash/Shell', 'C', 'C++', 'HTML/CSS', 'JavaScript', 'MATLAB', 'PHP', 'Python', 'Rust', 'SQL', 'TypeScript']",35
+418,Go,"Developer, back-end",['Go'],99
+420,C#;HTML/CSS;JavaScript;TypeScript,"Developer, front-end","['C#', 'HTML/CSS', 'JavaScript', 'TypeScript']",64
+422,HTML/CSS;JavaScript;Python;Ruby;SQL,"Developer, back-end","['HTML/CSS', 'JavaScript', 'Python', 'Ruby', 'SQL']",113
+423,Bash/Shell;Groovy;JavaScript;Python;Rust;SQL,"Developer, full-stack;Developer, back-end;Cloud infrastructure engineer;System administrator","['Bash/Shell', 'Groovy', 'JavaScript', 'Python', 'Rust', 'SQL']",102
+424,HTML/CSS;JavaScript;PHP;Ruby,"Developer, full-stack;Educator","['HTML/CSS', 'JavaScript', 'PHP', 'Ruby']",113
+425,C;C++;Python,"Developer, desktop or enterprise applications;Project manager","['C', 'C++', 'Python']",35
+427,Assembly;Bash/Shell;C;C++;Go;Java;JavaScript;LISP;Lua;Python;Rust;TypeScript,"Developer, back-end;Security professional","['Assembly', 'Bash/Shell', 'C', 'C++', 'Go', 'Java', 'JavaScript', 'LISP', 'Lua', 'Python', 'Rust', 'TypeScript']",35
+428,Bash/Shell;Dart;Go;JavaScript;PowerShell;Python;Rust;SQL;TypeScript,DevOps specialist,"['Bash/Shell', 'Dart', 'Go', 'JavaScript', 'PowerShell', 'Python', 'Rust', 'SQL', 'TypeScript']",102
+430,Clojure;HTML/CSS;JavaScript;Kotlin;PHP;Rust;SQL,"Developer, front-end;Developer, full-stack;Developer, back-end","['Clojure', 'HTML/CSS', 'JavaScript', 'Kotlin', 'PHP', 'Rust', 'SQL']",113
+431,C;C#;C++;Go;Java;JavaScript;Kotlin,"Developer, front-end;Engineer, data;Engineer, site reliability;Developer, full-stack;Developer, back-end;Developer, QA or test;Engineering manager;Database administrator;DevOps specialist;Developer, game or graphics;Project manager;Designer;Product manager;System administrator;Marketing or sales professional","['C', 'C#', 'C++', 'Go', 'Java', 'JavaScript', 'Kotlin']",35
+432,Kotlin;Objective-C;SQL;Swift,"Developer, mobile","['Kotlin', 'Objective-C', 'SQL', 'Swift']",102
+433,Bash/Shell;HTML/CSS;Java;JavaScript;LISP;PowerShell;SQL,"Developer, front-end;Developer, back-end;Developer, desktop or enterprise applications;Designer","['Bash/Shell', 'HTML/CSS', 'Java', 'JavaScript', 'LISP', 'PowerShell', 'SQL']",102
+434,C;C++;Delphi,"Developer, front-end;Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications;Developer, mobile;Educator;Database administrator;Developer, embedded applications or devices","['C', 'C++', 'Delphi']",35
+436,Java;TypeScript,"Developer, back-end","['Java', 'TypeScript']",100
+437,C#;HTML/CSS;JavaScript,"Developer, front-end;Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications;Designer","['C#', 'HTML/CSS', 'JavaScript']",64
+438,Assembly;Bash/Shell;C;C++;HTML/CSS;Java;JavaScript;OCaml;Python;Rust,Student,"['Assembly', 'Bash/Shell', 'C', 'C++', 'HTML/CSS', 'Java', 'JavaScript', 'OCaml', 'Python', 'Rust']",35
+439,C++;JavaScript;PHP;Rust,"Developer, front-end;Developer, back-end","['C++', 'JavaScript', 'PHP', 'Rust']",35
+440,C#;Dart,"Developer, back-end;Developer, desktop or enterprise applications;Developer, mobile;Engineering manager;Cloud infrastructure engineer","['C#', 'Dart']",101
+441,Bash/Shell;C#;HTML/CSS;JavaScript;Python;SQL,"Data scientist or machine learning specialist;Engineer, data","['Bash/Shell', 'C#', 'HTML/CSS', 'JavaScript', 'Python', 'SQL']",64
+442,Bash/Shell;Java;Kotlin;Python;Rust,"Developer, mobile","['Bash/Shell', 'Java', 'Kotlin', 'Python', 'Rust']",35
+443,C;C++;Dart;Elixir;Erlang;Go;HTML/CSS;JavaScript;Rust;Scala;SQL;TypeScript,"Data scientist or machine learning specialist;Developer, front-end;Developer, full-stack;Academic researcher;Cloud infrastructure engineer;Data or business analyst;Blockchain","['C', 'C++', 'Dart', 'Elixir', 'Erlang', 'Go', 'HTML/CSS', 'JavaScript', 'Rust', 'Scala', 'SQL', 'TypeScript']",35
+444,Bash/Shell;HTML/CSS;JavaScript;Python;SQL,"Developer, full-stack;Cloud infrastructure engineer;System administrator","['Bash/Shell', 'HTML/CSS', 'JavaScript', 'Python', 'SQL']",102
+446,HTML/CSS;Java;JavaScript;SQL;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end","['HTML/CSS', 'Java', 'JavaScript', 'SQL', 'TypeScript']",113
+447,Bash/Shell;HTML/CSS;Python;TypeScript,"Engineer, data","['Bash/Shell', 'HTML/CSS', 'Python', 'TypeScript']",102
+448,HTML/CSS;Java;JavaScript;Ruby;SQL,"Developer, front-end;Developer, full-stack;Developer, back-end","['HTML/CSS', 'Java', 'JavaScript', 'Ruby', 'SQL']",113
+449,Bash/Shell;C++;Go;Python,"Developer, back-end;Developer, desktop or enterprise applications;Data or business analyst","['Bash/Shell', 'C++', 'Go', 'Python']",35
+450,Assembly;C;PHP;Python;R;SQL,"Data scientist or machine learning specialist;Developer, full-stack;Educator","['Assembly', 'C', 'PHP', 'Python', 'R', 'SQL']",35
+454,Delphi;HTML/CSS;JavaScript,"Developer, full-stack","['Delphi', 'HTML/CSS', 'JavaScript']",113
+455,C#;JavaScript;Python;TypeScript,"Developer, full-stack","['C#', 'JavaScript', 'Python', 'TypeScript']",64
+456,Assembly;Bash/Shell;C;Go;Java;Julia;Python;Ruby;Rust;SQL,Academic researcher;Scientist,"['Assembly', 'Bash/Shell', 'C', 'Go', 'Java', 'Julia', 'Python', 'Ruby', 'Rust', 'SQL']",35
+457,C#;F#;Kotlin;Rust;Scala;TypeScript,Other (please specify):,"['C#', 'F#', 'Kotlin', 'Rust', 'Scala', 'TypeScript']",35
+459,Bash/Shell;Python;Rust;Scala;SQL,"Engineer, data","['Bash/Shell', 'Python', 'Rust', 'Scala', 'SQL']",35
+460,Bash/Shell;C;C++;Python;Rust,Other (please specify):,"['Bash/Shell', 'C', 'C++', 'Python', 'Rust']",35
+461,C++;Go;HTML/CSS;JavaScript;Kotlin;Python;TypeScript,"Developer, back-end","['C++', 'Go', 'HTML/CSS', 'JavaScript', 'Kotlin', 'Python', 'TypeScript']",113
+462,Bash/Shell;HTML/CSS;JavaScript;PowerShell;Python,Student,"['Bash/Shell', 'HTML/CSS', 'JavaScript', 'PowerShell', 'Python']",102
+463,Bash/Shell;C;HTML/CSS;JavaScript;Lua;TypeScript,"Developer, front-end","['Bash/Shell', 'C', 'HTML/CSS', 'JavaScript', 'Lua', 'TypeScript']",113
+464,Bash/Shell;Python;SQL,Data scientist or machine learning specialist,"['Bash/Shell', 'Python', 'SQL']",102
+465,C#;Java;JavaScript;Python;SQL,"Developer, full-stack;Academic researcher;DevOps specialist;Cloud infrastructure engineer;Scientist","['C#', 'Java', 'JavaScript', 'Python', 'SQL']",64
+466,Bash/Shell;Go;Haskell;HTML/CSS;Python;Ruby;Rust,Other (please specify):,"['Bash/Shell', 'Go', 'Haskell', 'HTML/CSS', 'Python', 'Ruby', 'Rust']",35
+467,C++;TypeScript,"Developer, back-end","['C++', 'TypeScript']",103
+468,Java;JavaScript;Rust;TypeScript,"Developer, full-stack","['Java', 'JavaScript', 'Rust', 'TypeScript']",35
+469,C#;PowerShell;SQL;TypeScript,"Developer, full-stack;DevOps specialist;Cloud infrastructure engineer","['C#', 'PowerShell', 'SQL', 'TypeScript']",64
+470,Go;HTML/CSS;Java;JavaScript;Kotlin;Python;Rust;SQL,"Developer, back-end","['Go', 'HTML/CSS', 'Java', 'JavaScript', 'Kotlin', 'Python', 'Rust', 'SQL']",102
+471,Bash/Shell;C#;C++;HTML/CSS;Perl;PHP;PowerShell;Python;Rust;SQL;VBA,"Data scientist or machine learning specialist;Engineer, data;Developer, back-end;Developer, desktop or enterprise applications;Project manager","['Bash/Shell', 'C#', 'C++', 'HTML/CSS', 'Perl', 'PHP', 'PowerShell', 'Python', 'Rust', 'SQL', 'VBA']",35
+472,C;C#;C++;Java;JavaScript;Rust;SQL;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end;Developer, QA or test;Developer, mobile;Database administrator;System administrator","['C', 'C#', 'C++', 'Java', 'JavaScript', 'Rust', 'SQL', 'TypeScript']",35
+473,Bash/Shell;C;Objective-C;Python;Rust;Swift,"Developer, desktop or enterprise applications","['Bash/Shell', 'C', 'Objective-C', 'Python', 'Rust', 'Swift']",35
+474,Java;Python;TypeScript,"Developer, back-end","['Java', 'Python', 'TypeScript']",102
+475,Bash/Shell;HTML/CSS;JavaScript;OCaml;Python;TypeScript,"Developer, front-end;Developer, full-stack","['Bash/Shell', 'HTML/CSS', 'JavaScript', 'OCaml', 'Python', 'TypeScript']",113
+476,C#;Python,"Developer, back-end","['C#', 'Python']",104
+479,Assembly;Bash/Shell;C;C++;MATLAB,"Developer, embedded applications or devices","['Assembly', 'Bash/Shell', 'C', 'C++', 'MATLAB']",35
+480,C#;HTML/CSS;Java;JavaScript;SQL;TypeScript;VBA,"Developer, front-end;Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications;Developer, QA or test;Database administrator;DevOps specialist;Designer;Scientist;Product manager;System administrator","['C#', 'HTML/CSS', 'Java', 'JavaScript', 'SQL', 'TypeScript', 'VBA']",64
+482,Java;JavaScript;Python;SQL,"Developer, full-stack;Developer, back-end;Developer, QA or test","['Java', 'JavaScript', 'Python', 'SQL']",102
+483,Assembly;Bash/Shell;C;C#;C++;HTML/CSS;JavaScript;Lua;PowerShell;Python;Rust;SQL;TypeScript,Other (please specify):,"['Assembly', 'Bash/Shell', 'C', 'C#', 'C++', 'HTML/CSS', 'JavaScript', 'Lua', 'PowerShell', 'Python', 'Rust', 'SQL', 'TypeScript']",35
+484,Python;Rust,"Developer, back-end","['Python', 'Rust']",105
+485,Bash/Shell;C#;Java;JavaScript;SQL;TypeScript,"Engineer, data","['Bash/Shell', 'C#', 'Java', 'JavaScript', 'SQL', 'TypeScript']",64
+486,C#,"Developer, back-end;Developer, desktop or enterprise applications",['C#'],106
+487,C#;C++;HTML/CSS;Java;JavaScript;PHP;Ruby;SQL;TypeScript,"Developer, full-stack","['C#', 'C++', 'HTML/CSS', 'Java', 'JavaScript', 'PHP', 'Ruby', 'SQL', 'TypeScript']",64
+488,Bash/Shell;C;HTML/CSS;JavaScript;Python;Rust;SQL,"Developer, full-stack;Student","['Bash/Shell', 'C', 'HTML/CSS', 'JavaScript', 'Python', 'Rust', 'SQL']",35
+489,Bash/Shell;Elixir;Go;JavaScript;Rust,"Developer, full-stack;Developer, back-end","['Bash/Shell', 'Elixir', 'Go', 'JavaScript', 'Rust']",35
+490,Bash/Shell;Java;Kotlin;Python,"Student;Developer, embedded applications or devices","['Bash/Shell', 'Java', 'Kotlin', 'Python']",102
+491,C#;HTML/CSS;Java;JavaScript;Python;Rust;SQL;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end","['C#', 'HTML/CSS', 'Java', 'JavaScript', 'Python', 'Rust', 'SQL', 'TypeScript']",64
+492,JavaScript;PHP,"Developer, back-end","['JavaScript', 'PHP']",108
+493,Bash/Shell;HTML/CSS;JavaScript;Ruby;TypeScript,"Engineer, site reliability;DevOps specialist;Cloud infrastructure engineer","['Bash/Shell', 'HTML/CSS', 'JavaScript', 'Ruby', 'TypeScript']",113
+494,C#;HTML/CSS;JavaScript;PHP;SQL,"Developer, front-end;Developer, full-stack;Developer, back-end;DevOps specialist","['C#', 'HTML/CSS', 'JavaScript', 'PHP', 'SQL']",64
+495,Bash/Shell;C;C#;C++;PowerShell,"Developer, front-end;Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications;Educator;Developer, embedded applications or devices","['Bash/Shell', 'C', 'C#', 'C++', 'PowerShell']",35
+496,C#,"Developer, back-end;Student;System administrator",['C#'],109
+497,C#;HTML/CSS;JavaScript;SQL;TypeScript,"Developer, back-end","['C#', 'HTML/CSS', 'JavaScript', 'SQL', 'TypeScript']",64
+498,Bash/Shell;Go,"Engineer, site reliability;DevOps specialist;Cloud infrastructure engineer","['Bash/Shell', 'Go']",110
+499,Java;Kotlin;Python;SQL,"Developer, back-end","['Java', 'Kotlin', 'Python', 'SQL']",102
+500,Bash/Shell;Go;Groovy;Python;Ruby;Swift,Other (please specify):,"['Bash/Shell', 'Go', 'Groovy', 'Python', 'Ruby', 'Swift']",102
+501,C#;F#;HTML/CSS;JavaScript;PowerShell;SQL,"Developer, front-end;Developer, full-stack;Developer, back-end","['C#', 'F#', 'HTML/CSS', 'JavaScript', 'PowerShell', 'SQL']",64
+502,Assembly;C;C#;C++;PowerShell;Python,"Developer, embedded applications or devices","['Assembly', 'C', 'C#', 'C++', 'PowerShell', 'Python']",35
+504,C++;HTML/CSS;Java;JavaScript;Python;R;SQL;TypeScript,"Developer, full-stack;Student","['C++', 'HTML/CSS', 'Java', 'JavaScript', 'Python', 'R', 'SQL', 'TypeScript']",113
+506,Bash/Shell;C;C#;C++;Go;HTML/CSS;Java;JavaScript;Julia;MATLAB;PHP;PowerShell;Python;R;Rust;SAS;Scala;SQL;TypeScript,"Data scientist or machine learning specialist;Developer, full-stack;Engineering manager;Academic researcher;Data or business analyst","['Bash/Shell', 'C', 'C#', 'C++', 'Go', 'HTML/CSS', 'Java', 'JavaScript', 'Julia', 'MATLAB', 'PHP', 'PowerShell', 'Python', 'R', 'Rust', 'SAS', 'Scala', 'SQL', 'TypeScript']",35
+508,C#;JavaScript;Python;Rust,"Developer, back-end;Developer, QA or test","['C#', 'JavaScript', 'Python', 'Rust']",35
+509,C;C++;JavaScript;Objective-C;PHP;SQL,"Developer, desktop or enterprise applications","['C', 'C++', 'JavaScript', 'Objective-C', 'PHP', 'SQL']",35
+510,Haskell;Python;Rust,"Data scientist or machine learning specialist;Developer, back-end","['Haskell', 'Python', 'Rust']",35
+511,C#;F#;SQL,"Engineer, data;Developer, desktop or enterprise applications;Database administrator;Academic researcher","['C#', 'F#', 'SQL']",64
+512,HTML/CSS;JavaScript;PHP;Rust;Solidity;SQL;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end;Student;Database administrator;System administrator","['HTML/CSS', 'JavaScript', 'PHP', 'Rust', 'Solidity', 'SQL', 'TypeScript']",113
+513,Go;TypeScript,"Developer, front-end;Developer, full-stack","['Go', 'TypeScript']",111
+514,Assembly;C;C++;HTML/CSS;JavaScript;MATLAB;Python,"Developer, desktop or enterprise applications;Student;Developer, embedded applications or devices;Developer, game or graphics","['Assembly', 'C', 'C++', 'HTML/CSS', 'JavaScript', 'MATLAB', 'Python']",35
+515,C++;Python,"Developer, back-end;DevOps specialist","['C++', 'Python']",112
+516,HTML/CSS;JavaScript;PHP;SQL,"Developer, front-end;Developer, full-stack;Developer, back-end;System administrator","['HTML/CSS', 'JavaScript', 'PHP', 'SQL']",113
+518,C#;HTML/CSS;Java;JavaScript;SQL;TypeScript,"Developer, full-stack","['C#', 'HTML/CSS', 'Java', 'JavaScript', 'SQL', 'TypeScript']",64
+520,JavaScript;PHP;SQL;TypeScript,"Developer, full-stack","['JavaScript', 'PHP', 'SQL', 'TypeScript']",113
+521,Python;Rust;SQL,System administrator,"['Python', 'Rust', 'SQL']",35
+523,Groovy;Java;Scala;SQL,"Engineer, data;Developer, back-end;Developer, desktop or enterprise applications;DevOps specialist;Cloud infrastructure engineer","['Groovy', 'Java', 'Scala', 'SQL']",102
+524,HTML/CSS;JavaScript;TypeScript,"Developer, full-stack;Designer;Product manager","['HTML/CSS', 'JavaScript', 'TypeScript']",113
+525,Bash/Shell;HTML/CSS;JavaScript;Lua;Python;Scala;TypeScript,"Developer, full-stack","['Bash/Shell', 'HTML/CSS', 'JavaScript', 'Lua', 'Python', 'Scala', 'TypeScript']",113
+526,Go;Python,"Developer, QA or test","['Go', 'Python']",114
+528,C;C++;Java;PHP;Python;Rust,"Engineer, site reliability","['C', 'C++', 'Java', 'PHP', 'Python', 'Rust']",35
+529,Go;JavaScript;PHP;Python;SQL,"Developer, full-stack","['Go', 'JavaScript', 'PHP', 'Python', 'SQL']",102
+530,HTML/CSS;JavaScript;Python;Rust;SQL;TypeScript,"Developer, full-stack;Developer, game or graphics","['HTML/CSS', 'JavaScript', 'Python', 'Rust', 'SQL', 'TypeScript']",113
+531,C;C++;Delphi;HTML/CSS;JavaScript;Perl;PHP;Python;SQL,"Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Senior Executive (C-Suite, VP, etc.);System administrator","['C', 'C++', 'Delphi', 'HTML/CSS', 'JavaScript', 'Perl', 'PHP', 'Python', 'SQL']",35
+532,Bash/Shell;C#;HTML/CSS;JavaScript;PowerShell;SQL;VBA,"Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications","['Bash/Shell', 'C#', 'HTML/CSS', 'JavaScript', 'PowerShell', 'SQL', 'VBA']",64
+535,C#;JavaScript;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end","['C#', 'JavaScript', 'TypeScript']",64
+536,C#;C++,"Developer, front-end;Developer, game or graphics","['C#', 'C++']",115
+537,Bash/Shell;C;Go;Groovy;Java;Python;Ruby;Rust,"Developer, full-stack;DevOps specialist;System administrator","['Bash/Shell', 'C', 'Go', 'Groovy', 'Java', 'Python', 'Ruby', 'Rust']",35
+538,Assembly;C;C++;Haskell;Kotlin;OCaml;Rust;Scala;Swift;TypeScript,"Data scientist or machine learning specialist;Developer, back-end;Developer, mobile;Developer, embedded applications or devices;Cloud infrastructure engineer;Blockchain","['Assembly', 'C', 'C++', 'Haskell', 'Kotlin', 'OCaml', 'Rust', 'Scala', 'Swift', 'TypeScript']",35
+539,Bash/Shell;C#;HTML/CSS;JavaScript;PowerShell;SQL;TypeScript,"Developer, full-stack","['Bash/Shell', 'C#', 'HTML/CSS', 'JavaScript', 'PowerShell', 'SQL', 'TypeScript']",64
+540,Bash/Shell;Clojure;Haskell;HTML/CSS,"Developer, full-stack","['Bash/Shell', 'Clojure', 'Haskell', 'HTML/CSS']",113
+541,Bash/Shell;C;Go;HTML/CSS;JavaScript;Lua;Rust;SQL,"Developer, full-stack;Developer, back-end","['Bash/Shell', 'C', 'Go', 'HTML/CSS', 'JavaScript', 'Lua', 'Rust', 'SQL']",35
+542,Bash/Shell;C;HTML/CSS;JavaScript;Kotlin;Objective-C;Rust;SQL;Swift;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end;Developer, mobile;Engineering manager;DevOps specialist;Product manager;System administrator","['Bash/Shell', 'C', 'HTML/CSS', 'JavaScript', 'Kotlin', 'Objective-C', 'Rust', 'SQL', 'Swift', 'TypeScript']",113
+544,Bash/Shell;C;C++;Go;Java;SQL,"Developer, back-end","['Bash/Shell', 'C', 'C++', 'Go', 'Java', 'SQL']",35
+545,C#;C++,"Developer, desktop or enterprise applications;Student;Developer, embedded applications or devices","['C#', 'C++']",116
+546,C;C#;C++;Go;Haskell;Java;JavaScript;Kotlin;Ruby;Rust;Scala;SQL;TypeScript,"Student;Developer, game or graphics","['C', 'C#', 'C++', 'Go', 'Haskell', 'Java', 'JavaScript', 'Kotlin', 'Ruby', 'Rust', 'Scala', 'SQL', 'TypeScript']",35
+547,Bash/Shell;Erlang,"Developer, back-end","['Bash/Shell', 'Erlang']",117
+548,C#;C++;HTML/CSS;Java;JavaScript;PowerShell;Python;Rust;SQL;TypeScript,"Developer, full-stack;Developer, desktop or enterprise applications","['C#', 'C++', 'HTML/CSS', 'Java', 'JavaScript', 'PowerShell', 'Python', 'Rust', 'SQL', 'TypeScript']",64
+549,Bash/Shell;Go;HTML/CSS;Lua;SQL;Swift,Other (please specify):,"['Bash/Shell', 'Go', 'HTML/CSS', 'Lua', 'SQL', 'Swift']",102
+550,C#;SQL,"Developer, back-end","['C#', 'SQL']",118
+552,Bash/Shell;C;C++;Go;Groovy;HTML/CSS;Java;JavaScript;PowerShell;Python;Rust;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications;Student;DevOps specialist;Cloud infrastructure engineer;System administrator","['Bash/Shell', 'C', 'C++', 'Go', 'Groovy', 'HTML/CSS', 'Java', 'JavaScript', 'PowerShell', 'Python', 'Rust', 'TypeScript']",35
+553,C;Java;JavaScript;Python;SQL;TypeScript,"Developer, full-stack;Developer, QA or test;System administrator","['C', 'Java', 'JavaScript', 'Python', 'SQL', 'TypeScript']",102
+554,C#;HTML/CSS;JavaScript;Python;Rust,"Developer, back-end","['C#', 'HTML/CSS', 'JavaScript', 'Python', 'Rust']",64
+555,Dart;Go;Java;JavaScript;Kotlin;TypeScript,"Developer, full-stack","['Dart', 'Go', 'Java', 'JavaScript', 'Kotlin', 'TypeScript']",102
+557,TypeScript,"Developer, front-end;Developer, full-stack",['TypeScript'],119
+558,HTML/CSS;JavaScript;Perl;PHP;Python;SQL,"Developer, front-end;Developer, full-stack;Developer, back-end;Student;Educator;Academic researcher;Data or business analyst;Designer","['HTML/CSS', 'JavaScript', 'Perl', 'PHP', 'Python', 'SQL']",113
+559,C#;C++;F#;Rust;SQL,"Developer, full-stack","['C#', 'C++', 'F#', 'Rust', 'SQL']",35
+560,Bash/Shell;HTML/CSS;Java;JavaScript;Python;SQL,"Developer, full-stack;Database administrator;DevOps specialist;Data or business analyst;System administrator","['Bash/Shell', 'HTML/CSS', 'Java', 'JavaScript', 'Python', 'SQL']",102
+561,Bash/Shell;C;Elixir;HTML/CSS;JavaScript;Kotlin;PHP;Rust;SQL;TypeScript,"Developer, back-end;Developer, desktop or enterprise applications;Blockchain","['Bash/Shell', 'C', 'Elixir', 'HTML/CSS', 'JavaScript', 'Kotlin', 'PHP', 'Rust', 'SQL', 'TypeScript']",113
+562,Bash/Shell;C#;Java;Perl;SQL,"Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications;DevOps specialist","['Bash/Shell', 'C#', 'Java', 'Perl', 'SQL']",64
+563,Bash/Shell;C#;Dart;HTML/CSS;Java;JavaScript;MATLAB;SQL,"Developer, front-end;Developer, full-stack","['Bash/Shell', 'C#', 'Dart', 'HTML/CSS', 'Java', 'JavaScript', 'MATLAB', 'SQL']",64
+564,HTML/CSS;Java;JavaScript;TypeScript,"Developer, full-stack","['HTML/CSS', 'Java', 'JavaScript', 'TypeScript']",113
+565,C++;Java;JavaScript;Python,"Engineer, site reliability;DevOps specialist;Cloud infrastructure engineer","['C++', 'Java', 'JavaScript', 'Python']",35
+566,Bash/Shell;C#;Go;HTML/CSS;JavaScript;PowerShell;Ruby;SQL;TypeScript;VBA,"Developer, full-stack;Developer, back-end","['Bash/Shell', 'C#', 'Go', 'HTML/CSS', 'JavaScript', 'PowerShell', 'Ruby', 'SQL', 'TypeScript', 'VBA']",64
+567,Assembly;Bash/Shell;C;C++;HTML/CSS;JavaScript;Rust;SQL;TypeScript,Student,"['Assembly', 'Bash/Shell', 'C', 'C++', 'HTML/CSS', 'JavaScript', 'Rust', 'SQL', 'TypeScript']",35
+568,Assembly;C;C++;Rust;SQL,Student;Academic researcher,"['Assembly', 'C', 'C++', 'Rust', 'SQL']",35
+569,Assembly;Bash/Shell;C#;C++;JavaScript;Lua;PowerShell;Python;Rust;SQL;TypeScript,"Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;System administrator","['Assembly', 'Bash/Shell', 'C#', 'C++', 'JavaScript', 'Lua', 'PowerShell', 'Python', 'Rust', 'SQL', 'TypeScript']",35
+571,C++;Go;Python,"Developer, desktop or enterprise applications","['C++', 'Go', 'Python']",35
+572,Bash/Shell;C;C++;MATLAB;Python,"Developer, embedded applications or devices","['Bash/Shell', 'C', 'C++', 'MATLAB', 'Python']",35
+573,C;JavaScript;R;Rust,Academic researcher;Scientist,"['C', 'JavaScript', 'R', 'Rust']",35
+574,HTML/CSS;Java;JavaScript;Kotlin;PHP;Python;Rust;SQL;TypeScript,"Data scientist or machine learning specialist;Developer, full-stack","['HTML/CSS', 'Java', 'JavaScript', 'Kotlin', 'PHP', 'Python', 'Rust', 'SQL', 'TypeScript']",113
+575,Bash/Shell;C++;HTML/CSS;JavaScript;Python;Rust;TypeScript,"Developer, embedded applications or devices","['Bash/Shell', 'C++', 'HTML/CSS', 'JavaScript', 'Python', 'Rust', 'TypeScript']",35
+576,Bash/Shell;HTML/CSS;Java;PHP;Python,Database administrator,"['Bash/Shell', 'HTML/CSS', 'Java', 'PHP', 'Python']",102
+577,C;C#;C++;HTML/CSS;JavaScript;Rust;TypeScript,"Developer, game or graphics","['C', 'C#', 'C++', 'HTML/CSS', 'JavaScript', 'Rust', 'TypeScript']",35
+578,Bash/Shell;Python;Rust;TypeScript,"Developer, back-end;Cloud infrastructure engineer","['Bash/Shell', 'Python', 'Rust', 'TypeScript']",35
+579,Bash/Shell;C;Kotlin;Rust;SQL,"Developer, mobile;Developer, embedded applications or devices","['Bash/Shell', 'C', 'Kotlin', 'Rust', 'SQL']",35
+580,Bash/Shell;HTML/CSS;JavaScript;Python;Rust,"Developer, full-stack","['Bash/Shell', 'HTML/CSS', 'JavaScript', 'Python', 'Rust']",35
+581,Bash/Shell;C#;Java;PowerShell;SQL,Marketing or sales professional,"['Bash/Shell', 'C#', 'Java', 'PowerShell', 'SQL']",64
+582,Assembly;Bash/Shell;C;C++;HTML/CSS;Java;JavaScript;OCaml;Perl;PHP;Python;Rust;SQL,"Developer, back-end;Educator","['Assembly', 'Bash/Shell', 'C', 'C++', 'HTML/CSS', 'Java', 'JavaScript', 'OCaml', 'Perl', 'PHP', 'Python', 'Rust', 'SQL']",35
+583,C#,"Developer, front-end;Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications",['C#'],120
+584,Bash/Shell;HTML/CSS;PHP;Python;SQL,"Developer, back-end;Database administrator;DevOps specialist;Cloud infrastructure engineer;System administrator","['Bash/Shell', 'HTML/CSS', 'PHP', 'Python', 'SQL']",102
+585,Bash/Shell;C#;Elixir;HTML/CSS;JavaScript;PowerShell;Python;SQL;TypeScript,"Developer, full-stack","['Bash/Shell', 'C#', 'Elixir', 'HTML/CSS', 'JavaScript', 'PowerShell', 'Python', 'SQL', 'TypeScript']",64
+586,C++;Python;Rust,"DevOps specialist;Other (please specify):;Developer, embedded applications or devices","['C++', 'Python', 'Rust']",35
+587,Bash/Shell;HTML/CSS;JavaScript;PHP;Python;R;SAS;SQL,"Developer, front-end;Developer, full-stack;Developer, back-end;DevOps specialist","['Bash/Shell', 'HTML/CSS', 'JavaScript', 'PHP', 'Python', 'R', 'SAS', 'SQL']",113
+588,Clojure;Java;TypeScript,"Developer, front-end;Developer, mobile;Developer, game or graphics","['Clojure', 'Java', 'TypeScript']",113
+590,C#;F#;JavaScript,"Developer, back-end","['C#', 'F#', 'JavaScript']",64
+591,HTML/CSS;JavaScript;Python;Rust;TypeScript,"Developer, full-stack;Student","['HTML/CSS', 'JavaScript', 'Python', 'Rust', 'TypeScript']",113
+592,Java;Kotlin;TypeScript,"Developer, full-stack","['Java', 'Kotlin', 'TypeScript']",102
+593,Bash/Shell;HTML/CSS;JavaScript;PHP;Rust;SQL;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end;Project manager","['Bash/Shell', 'HTML/CSS', 'JavaScript', 'PHP', 'Rust', 'SQL', 'TypeScript']",113
+595,C#;JavaScript;PowerShell;SQL;TypeScript,"Developer, back-end;Developer, desktop or enterprise applications","['C#', 'JavaScript', 'PowerShell', 'SQL', 'TypeScript']",64
+596,Groovy;HTML/CSS;Java;JavaScript;Lua;PowerShell;Python;SQL,"Developer, full-stack;Engineering manager;Security professional","['Groovy', 'HTML/CSS', 'Java', 'JavaScript', 'Lua', 'PowerShell', 'Python', 'SQL']",102
+597,Bash/Shell;Groovy;Java;JavaScript;Kotlin;PHP;Python;Rust;SQL;TypeScript,"Developer, back-end","['Bash/Shell', 'Groovy', 'Java', 'JavaScript', 'Kotlin', 'PHP', 'Python', 'Rust', 'SQL', 'TypeScript']",102
+599,HTML/CSS;JavaScript;TypeScript,"Developer, full-stack","['HTML/CSS', 'JavaScript', 'TypeScript']",113
+600,Dart;HTML/CSS;JavaScript;PHP;Python;SQL;Swift,"Developer, front-end;Developer, full-stack;Developer, back-end;Developer, mobile;Database administrator;Project manager;Data or business analyst;Designer;Senior Executive (C-Suite, VP, etc.);System administrator;Marketing or sales professional;Security professional","['Dart', 'HTML/CSS', 'JavaScript', 'PHP', 'Python', 'SQL', 'Swift']",113
+601,Java,Student,['Java'],0
+602,Bash/Shell;C;C++;HTML/CSS;Java;JavaScript;LISP;Python;Rust;SQL;TypeScript,"Developer, back-end","['Bash/Shell', 'C', 'C++', 'HTML/CSS', 'Java', 'JavaScript', 'LISP', 'Python', 'Rust', 'SQL', 'TypeScript']",35
+603,Bash/Shell;Groovy;HTML/CSS;Java;JavaScript;PHP;Python;Rust;SQL,"Developer, front-end;Developer, back-end;Developer, QA or test;DevOps specialist;System administrator;Security professional","['Bash/Shell', 'Groovy', 'HTML/CSS', 'Java', 'JavaScript', 'PHP', 'Python', 'Rust', 'SQL']",102
+605,Python;SQL,"Data scientist or machine learning specialist;Developer, full-stack","['Python', 'SQL']",1
+606,HTML/CSS;JavaScript;TypeScript,"Developer, full-stack","['HTML/CSS', 'JavaScript', 'TypeScript']",113
+607,Bash/Shell;Clojure;Java,"Developer, back-end","['Bash/Shell', 'Clojure', 'Java']",102
+608,JavaScript;Rust;TypeScript,"Developer, front-end","['JavaScript', 'Rust', 'TypeScript']",35
+609,Groovy;Java;JavaScript;Python;Rust;Scala,"Developer, full-stack","['Groovy', 'Java', 'JavaScript', 'Python', 'Rust', 'Scala']",35
+610,C;C++;PowerShell;Python,"Other (please specify):;Developer, embedded applications or devices","['C', 'C++', 'PowerShell', 'Python']",35
+611,C;C++;Kotlin;Rust,"Developer, mobile","['C', 'C++', 'Kotlin', 'Rust']",35
+612,C;C++;Clojure;Go;Java,"Developer, back-end;Designer","['C', 'C++', 'Clojure', 'Go', 'Java']",35
+613,C;C++;JavaScript;Python;Rust;SQL;TypeScript,"Engineering manager;Developer, embedded applications or devices","['C', 'C++', 'JavaScript', 'Python', 'Rust', 'SQL', 'TypeScript']",35
+614,Java;JavaScript;Python;Scala;SQL;TypeScript,"Developer, full-stack","['Java', 'JavaScript', 'Python', 'Scala', 'SQL', 'TypeScript']",102
+615,Bash/Shell;Perl;Python,Engineering manager;DevOps specialist,"['Bash/Shell', 'Perl', 'Python']",35
+616,Clojure;Groovy;HTML/CSS;JavaScript;Ruby,"Developer, front-end;Developer, full-stack;Developer, back-end;Developer, mobile","['Clojure', 'Groovy', 'HTML/CSS', 'JavaScript', 'Ruby']",113
+617,Go;Java;Rust,"Developer, back-end;DevOps specialist;System administrator","['Go', 'Java', 'Rust']",35
+618,C;C#;JavaScript;SQL,"Developer, front-end;Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, game or graphics","['C', 'C#', 'JavaScript', 'SQL']",64
+619,C#;C++;HTML/CSS;JavaScript;PowerShell,"Developer, full-stack;Developer, desktop or enterprise applications;Developer, mobile","['C#', 'C++', 'HTML/CSS', 'JavaScript', 'PowerShell']",64
+620,Bash/Shell;Clojure;HTML/CSS;Java;JavaScript;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end;DevOps specialist;Cloud infrastructure engineer","['Bash/Shell', 'Clojure', 'HTML/CSS', 'Java', 'JavaScript', 'TypeScript']",113
+621,Bash/Shell;Clojure;Java;LISP;Python;R,"Data scientist or machine learning specialist;Engineer, data;Project manager;Product manager;Senior Executive (C-Suite, VP, etc.)","['Bash/Shell', 'Clojure', 'Java', 'LISP', 'Python', 'R']",102
+622,C#;JavaScript;SQL;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end","['C#', 'JavaScript', 'SQL', 'TypeScript']",64
+623,HTML/CSS;JavaScript;PHP,"Developer, front-end;Developer, full-stack","['HTML/CSS', 'JavaScript', 'PHP']",113
+624,C;C#;C++;Go;Java;JavaScript;Julia;Rust;SQL;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications;Student","['C', 'C#', 'C++', 'Go', 'Java', 'JavaScript', 'Julia', 'Rust', 'SQL', 'TypeScript']",35
+625,C++;HTML/CSS;JavaScript;Rust;TypeScript,"Developer, full-stack;Developer, back-end;Blockchain","['C++', 'HTML/CSS', 'JavaScript', 'Rust', 'TypeScript']",35
+626,Bash/Shell;C;HTML/CSS;JavaScript;PHP;SQL,"Developer, full-stack;Developer, back-end","['Bash/Shell', 'C', 'HTML/CSS', 'JavaScript', 'PHP', 'SQL']",113
+628,Clojure,"Developer, front-end;Developer, full-stack;Developer, back-end;Designer",['Clojure'],2
+629,Clojure;Groovy;HTML/CSS;Java;JavaScript;Python;SQL,Academic researcher,"['Clojure', 'Groovy', 'HTML/CSS', 'Java', 'JavaScript', 'Python', 'SQL']",102
+630,C;C++;HTML/CSS;JavaScript;Objective-C;Python;Rust;TypeScript,"Developer, full-stack","['C', 'C++', 'HTML/CSS', 'JavaScript', 'Objective-C', 'Python', 'Rust', 'TypeScript']",35
+631,C#;Go;HTML/CSS;JavaScript;Python;SQL;TypeScript,"Developer, full-stack;Developer, back-end;Developer, QA or test;DevOps specialist;Cloud infrastructure engineer","['C#', 'Go', 'HTML/CSS', 'JavaScript', 'Python', 'SQL', 'TypeScript']",64
+632,C;C++;SQL,Marketing or sales professional,"['C', 'C++', 'SQL']",35
+633,Groovy;JavaScript;Python;Rust,"Developer, back-end;Developer, QA or test","['Groovy', 'JavaScript', 'Python', 'Rust']",35
+634,Bash/Shell;Clojure;Groovy,"Developer, back-end","['Bash/Shell', 'Clojure', 'Groovy']",102
+635,C#;HTML/CSS;JavaScript;PowerShell;SQL,"Developer, back-end;Security professional","['C#', 'HTML/CSS', 'JavaScript', 'PowerShell', 'SQL']",64
+636,C;C++;HTML/CSS;JavaScript;MATLAB;PowerShell;Python;Rust;Solidity;SQL,"Data scientist or machine learning specialist;Developer, front-end;Engineer, data;Developer, full-stack;Developer, back-end;Developer, QA or test;Student;Educator;Developer, embedded applications or devices;Scientist;Blockchain","['C', 'C++', 'HTML/CSS', 'JavaScript', 'MATLAB', 'PowerShell', 'Python', 'Rust', 'Solidity', 'SQL']",35
+637,C#;Go;HTML/CSS;Java;JavaScript;Python,"Developer, full-stack;Engineering manager","['C#', 'Go', 'HTML/CSS', 'Java', 'JavaScript', 'Python']",64
+638,C#;Clojure;Go;HTML/CSS;JavaScript;SQL,"Developer, front-end;Developer, back-end","['C#', 'Clojure', 'Go', 'HTML/CSS', 'JavaScript', 'SQL']",64
+639,C#;C++;Python;Rust,"Developer, back-end;Developer, desktop or enterprise applications","['C#', 'C++', 'Python', 'Rust']",35
+641,Groovy;HTML/CSS;Java;JavaScript;Rust;SQL;TypeScript,"Data scientist or machine learning specialist;Developer, front-end;Developer, full-stack;Developer, back-end;Developer, QA or test;Developer, mobile;Database administrator;DevOps specialist;Cloud infrastructure engineer;Data or business analyst","['Groovy', 'HTML/CSS', 'Java', 'JavaScript', 'Rust', 'SQL', 'TypeScript']",113
+642,Clojure;Java,"Engineer, data;Developer, back-end","['Clojure', 'Java']",3
+643,Bash/Shell;Python;Scala,"Engineer, data","['Bash/Shell', 'Python', 'Scala']",102
+644,Bash/Shell;Java;OCaml,"Developer, back-end","['Bash/Shell', 'Java', 'OCaml']",35
+646,Bash/Shell;HTML/CSS;JavaScript;PHP,"Developer, front-end;Developer, full-stack;Developer, back-end","['Bash/Shell', 'HTML/CSS', 'JavaScript', 'PHP']",113
+647,C++;Rust,"Developer, game or graphics","['C++', 'Rust']",5
+648,Java;Kotlin;Lua;PowerShell;SQL,"Developer, back-end;Developer, QA or test;Project manager","['Java', 'Kotlin', 'Lua', 'PowerShell', 'SQL']",102
+649,JavaScript;Perl;Python;Rust,"Developer, full-stack","['JavaScript', 'Perl', 'Python', 'Rust']",35
+651,Bash/Shell;Go;HTML/CSS;Java;JavaScript;Lua;Perl;Python;Ruby;Rust;TypeScript,"Developer, back-end","['Bash/Shell', 'Go', 'HTML/CSS', 'Java', 'JavaScript', 'Lua', 'Perl', 'Python', 'Ruby', 'Rust', 'TypeScript']",102
+652,C++;HTML/CSS;JavaScript;MATLAB;Python,"Data scientist or machine learning specialist;Engineer, data;Scientist","['C++', 'HTML/CSS', 'JavaScript', 'MATLAB', 'Python']",35
+653,Bash/Shell;HTML/CSS;Java;JavaScript;PHP;SQL,"Developer, full-stack","['Bash/Shell', 'HTML/CSS', 'Java', 'JavaScript', 'PHP', 'SQL']",113
+654,Bash/Shell;HTML/CSS;Java;JavaScript;Python,Educator;Cloud infrastructure engineer;System administrator;Security professional,"['Bash/Shell', 'HTML/CSS', 'Java', 'JavaScript', 'Python']",102
+655,Go;Python,"Developer, QA or test","['Go', 'Python']",6
+656,Bash/Shell;Clojure;Go;HTML/CSS;Java;JavaScript;Ruby;SQL;TypeScript,"Engineer, site reliability;Developer, back-end;DevOps specialist;Cloud infrastructure engineer","['Bash/Shell', 'Clojure', 'Go', 'HTML/CSS', 'Java', 'JavaScript', 'Ruby', 'SQL', 'TypeScript']",113
+658,Groovy;Java;JavaScript;Julia;Rust;TypeScript,"Developer, full-stack","['Groovy', 'Java', 'JavaScript', 'Julia', 'Rust', 'TypeScript']",35
+659,Assembly;Bash/Shell;C;C#;C++;HTML/CSS;Java;JavaScript;Kotlin;PHP;PowerShell;Python;Ruby;Rust;TypeScript,Security professional,"['Assembly', 'Bash/Shell', 'C', 'C#', 'C++', 'HTML/CSS', 'Java', 'JavaScript', 'Kotlin', 'PHP', 'PowerShell', 'Python', 'Ruby', 'Rust', 'TypeScript']",35
+660,C;C++;HTML/CSS;JavaScript;Python;Rust;Swift,Academic researcher,"['C', 'C++', 'HTML/CSS', 'JavaScript', 'Python', 'Rust', 'Swift']",35
+661,Bash/Shell;HTML/CSS;Java;JavaScript;PowerShell;Python;Ruby;SQL,"Developer, full-stack","['Bash/Shell', 'HTML/CSS', 'Java', 'JavaScript', 'PowerShell', 'Python', 'Ruby', 'SQL']",102
+662,Assembly;C;Python,Security professional,"['Assembly', 'C', 'Python']",35
+663,Dart;Rust;TypeScript,"Developer, back-end;Cloud infrastructure engineer","['Dart', 'Rust', 'TypeScript']",102
+664,C#;HTML/CSS;JavaScript;PowerShell;SQL,"Developer, full-stack","['C#', 'HTML/CSS', 'JavaScript', 'PowerShell', 'SQL']",64
+665,Bash/Shell;C;C++;Go;Haskell;HTML/CSS;JavaScript;LISP;PHP;Python;Rust;SQL;TypeScript,"Developer, back-end;DevOps specialist;Developer, embedded applications or devices","['Bash/Shell', 'C', 'C++', 'Go', 'Haskell', 'HTML/CSS', 'JavaScript', 'LISP', 'PHP', 'Python', 'Rust', 'SQL', 'TypeScript']",35
+666,C#;HTML/CSS;Java;JavaScript;SQL;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end","['C#', 'HTML/CSS', 'Java', 'JavaScript', 'SQL', 'TypeScript']",64
+668,Bash/Shell;C#;PowerShell,"Developer, back-end;DevOps specialist;Cloud infrastructure engineer","['Bash/Shell', 'C#', 'PowerShell']",64
+669,C#;JavaScript;PHP,"Developer, full-stack;Developer, desktop or enterprise applications;Designer","['C#', 'JavaScript', 'PHP']",64
+670,C++;Perl;PHP;Python;R;SQL,Academic researcher,"['C++', 'Perl', 'PHP', 'Python', 'R', 'SQL']",35
+672,C#;HTML/CSS;JavaScript;Python;Rust;SQL,"Developer, front-end;Developer, full-stack;Developer, back-end","['C#', 'HTML/CSS', 'JavaScript', 'Python', 'Rust', 'SQL']",64
+673,JavaScript;Ruby,"Developer, full-stack;Senior Executive (C-Suite, VP, etc.)","['JavaScript', 'Ruby']",7
+674,C;C++;Java;Python,"Developer, desktop or enterprise applications;Developer, game or graphics","['C', 'C++', 'Java', 'Python']",35
+675,Bash/Shell;Go;HTML/CSS;SQL,"Developer, full-stack;Developer, back-end;Developer, mobile;Cloud infrastructure engineer","['Bash/Shell', 'Go', 'HTML/CSS', 'SQL']",102
+676,Clojure;Elixir;JavaScript;Ruby;TypeScript,"Developer, back-end","['Clojure', 'Elixir', 'JavaScript', 'Ruby', 'TypeScript']",113
+677,SQL,"Engineer, data",['SQL'],8
+678,Assembly;Bash/Shell;C;C++;HTML/CSS;JavaScript;Python;Rust,"Developer, back-end;Security professional","['Assembly', 'Bash/Shell', 'C', 'C++', 'HTML/CSS', 'JavaScript', 'Python', 'Rust']",35
+679,C#;JavaScript;SQL,"Developer, full-stack","['C#', 'JavaScript', 'SQL']",64
+680,Erlang;Go;Python,"Developer, back-end","['Erlang', 'Go', 'Python']",35
+681,Assembly;HTML/CSS;JavaScript;Rust,"Developer, full-stack;Developer, embedded applications or devices","['Assembly', 'HTML/CSS', 'JavaScript', 'Rust']",35
+683,HTML/CSS;JavaScript;PHP;TypeScript,"Developer, full-stack;Developer, QA or test;Developer, mobile;Database administrator;Project manager","['HTML/CSS', 'JavaScript', 'PHP', 'TypeScript']",113
+684,JavaScript;Python,"Developer, back-end","['JavaScript', 'Python']",9
+685,Assembly;C;C++;HTML/CSS;Java;JavaScript;Python;Rust;TypeScript,"Developer, back-end","['Assembly', 'C', 'C++', 'HTML/CSS', 'Java', 'JavaScript', 'Python', 'Rust', 'TypeScript']",35
+686,Bash/Shell;C#;Elixir;Erlang;F#;Haskell;HTML/CSS;JavaScript;LISP;Python;Rust;SQL;TypeScript,"Developer, front-end;Engineer, data;Developer, full-stack;Developer, back-end","['Bash/Shell', 'C#', 'Elixir', 'Erlang', 'F#', 'Haskell', 'HTML/CSS', 'JavaScript', 'LISP', 'Python', 'Rust', 'SQL', 'TypeScript']",64
+687,C#;HTML/CSS;Python,"Developer, back-end","['C#', 'HTML/CSS', 'Python']",64
+689,HTML/CSS;JavaScript;PHP;Python;SQL,"Developer, full-stack","['HTML/CSS', 'JavaScript', 'PHP', 'Python', 'SQL']",113
+690,HTML/CSS;JavaScript;PHP;SQL,"Developer, full-stack","['HTML/CSS', 'JavaScript', 'PHP', 'SQL']",113
+692,C;C++;Java;JavaScript;Rust;SQL,"Developer, back-end","['C', 'C++', 'Java', 'JavaScript', 'Rust', 'SQL']",35
+694,Assembly;C;C++;HTML/CSS;Java;JavaScript;Python;Ruby;Rust;TypeScript,"Developer, back-end;Cloud infrastructure engineer","['Assembly', 'C', 'C++', 'HTML/CSS', 'Java', 'JavaScript', 'Python', 'Ruby', 'Rust', 'TypeScript']",35
+696,JavaScript;TypeScript,"Developer, back-end;Blockchain","['JavaScript', 'TypeScript']",10
+697,Clojure;Java;JavaScript;SQL;TypeScript,"Developer, full-stack;Developer, back-end;Data or business analyst","['Clojure', 'Java', 'JavaScript', 'SQL', 'TypeScript']",113
+699,Bash/Shell;C;HTML/CSS;JavaScript;PHP;PowerShell;SQL;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications;Database administrator;DevOps specialist;Project manager;Designer;Product manager;System administrator;Security professional","['Bash/Shell', 'C', 'HTML/CSS', 'JavaScript', 'PHP', 'PowerShell', 'SQL', 'TypeScript']",113
+700,Bash/Shell;Go;HTML/CSS;JavaScript;SQL;TypeScript,"Developer, back-end","['Bash/Shell', 'Go', 'HTML/CSS', 'JavaScript', 'SQL', 'TypeScript']",113
+702,Bash/Shell;Groovy;Java;JavaScript;Kotlin;Python;Rust;Scala;TypeScript,"Developer, back-end;Developer, mobile","['Bash/Shell', 'Groovy', 'Java', 'JavaScript', 'Kotlin', 'Python', 'Rust', 'Scala', 'TypeScript']",102
+703,Bash/Shell;HTML/CSS;Java;JavaScript;TypeScript,"Developer, front-end","['Bash/Shell', 'HTML/CSS', 'Java', 'JavaScript', 'TypeScript']",113
+705,Bash/Shell;Dart;Java;JavaScript;Kotlin;Python;SQL;Swift;TypeScript,"Developer, back-end","['Bash/Shell', 'Dart', 'Java', 'JavaScript', 'Kotlin', 'Python', 'SQL', 'Swift', 'TypeScript']",102
+707,C#;Go;Groovy;HTML/CSS;Java;JavaScript;Python;Solidity;SQL;Swift;TypeScript,Other (please specify):,"['C#', 'Go', 'Groovy', 'HTML/CSS', 'Java', 'JavaScript', 'Python', 'Solidity', 'SQL', 'Swift', 'TypeScript']",64
+708,Bash/Shell;Crystal;F#;HTML/CSS;JavaScript;Python;Rust;SQL;VBA,"Developer, back-end","['Bash/Shell', 'Crystal', 'F#', 'HTML/CSS', 'JavaScript', 'Python', 'Rust', 'SQL', 'VBA']",102
+709,Assembly;Bash/Shell;C;C++;Go;Java;Python;SQL,"Developer, QA or test","['Assembly', 'Bash/Shell', 'C', 'C++', 'Go', 'Java', 'Python', 'SQL']",35
+710,HTML/CSS;Java;JavaScript;PowerShell;Swift;TypeScript,"Developer, front-end;Developer, full-stack;Developer, desktop or enterprise applications;Developer, embedded applications or devices","['HTML/CSS', 'Java', 'JavaScript', 'PowerShell', 'Swift', 'TypeScript']",64
+712,Bash/Shell;Clojure;Groovy;HTML/CSS;Java;JavaScript;R;SQL;TypeScript,"Developer, full-stack;Senior Executive (C-Suite, VP, etc.)","['Bash/Shell', 'Clojure', 'Groovy', 'HTML/CSS', 'Java', 'JavaScript', 'R', 'SQL', 'TypeScript']",113
+713,HTML/CSS;Java;JavaScript;Rust;TypeScript,"Developer, front-end;Developer, QA or test","['HTML/CSS', 'Java', 'JavaScript', 'Rust', 'TypeScript']",113
+716,Bash/Shell;C#;Java;Lua;Python;SQL,"Developer, back-end;Developer, desktop or enterprise applications;Student;Academic researcher;Project manager","['Bash/Shell', 'C#', 'Java', 'Lua', 'Python', 'SQL']",102
+718,C#;Crystal;Java;JavaScript;MATLAB;Python;Scala;SQL;VBA,Marketing or sales professional,"['C#', 'Crystal', 'Java', 'JavaScript', 'MATLAB', 'Python', 'Scala', 'SQL', 'VBA']",64
+720,C#;HTML/CSS;JavaScript;PowerShell;Python;SQL,"Developer, front-end;Developer, full-stack;Developer, back-end;Student","['C#', 'HTML/CSS', 'JavaScript', 'PowerShell', 'Python', 'SQL']",64
+721,C#;Java;SQL,"Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications;Student","['C#', 'Java', 'SQL']",64
+722,C;C++;Go;Java;JavaScript;Lua;Perl;Rust;Scala;Swift;TypeScript,Product manager,"['C', 'C++', 'Go', 'Java', 'JavaScript', 'Lua', 'Perl', 'Rust', 'Scala', 'Swift', 'TypeScript']",35
+723,Clojure,"Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications",['Clojure'],11
+724,Bash/Shell;Groovy;Kotlin,"Developer, back-end;Developer, mobile","['Bash/Shell', 'Groovy', 'Kotlin']",102
+725,Clojure;HTML/CSS;JavaScript;Rust;SQL;TypeScript,"Developer, full-stack;Developer, back-end","['Clojure', 'HTML/CSS', 'JavaScript', 'Rust', 'SQL', 'TypeScript']",113
+727,C#;Elixir;Java;LISP;Python,"Engineer, site reliability;Developer, back-end;DevOps specialist;Cloud infrastructure engineer;System administrator;Security professional","['C#', 'Elixir', 'Java', 'LISP', 'Python']",35
+728,Java;Python;TypeScript,"Developer, back-end;Cloud infrastructure engineer","['Java', 'Python', 'TypeScript']",102
+729,C#;HTML/CSS;JavaScript;PHP,"Developer, full-stack","['C#', 'HTML/CSS', 'JavaScript', 'PHP']",64
+730,Bash/Shell;Go;PHP;PowerShell;Python;SQL;TypeScript,DevOps specialist,"['Bash/Shell', 'Go', 'PHP', 'PowerShell', 'Python', 'SQL', 'TypeScript']",102
+731,Bash/Shell;C;C#;C++;Go;HTML/CSS;JavaScript;Python;R;Rust;SQL;TypeScript,"Engineer, data;Engineering manager;Project manager;Cloud infrastructure engineer;Product manager","['Bash/Shell', 'C', 'C#', 'C++', 'Go', 'HTML/CSS', 'JavaScript', 'Python', 'R', 'Rust', 'SQL', 'TypeScript']",35
+733,Bash/Shell;Java;PowerShell;Python,"Developer, QA or test","['Bash/Shell', 'Java', 'PowerShell', 'Python']",102
+734,Assembly;Bash/Shell;HTML/CSS;Java;JavaScript;PHP;Python;SQL;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end;Database administrator;Designer;System administrator","['Assembly', 'Bash/Shell', 'HTML/CSS', 'Java', 'JavaScript', 'PHP', 'Python', 'SQL', 'TypeScript']",113
+735,HTML/CSS;Java;Python;SQL,"Developer, back-end;Senior Executive (C-Suite, VP, etc.)","['HTML/CSS', 'Java', 'Python', 'SQL']",102
+737,HTML/CSS;JavaScript;Ruby;SQL;TypeScript,"Developer, full-stack","['HTML/CSS', 'JavaScript', 'Ruby', 'SQL', 'TypeScript']",113
+738,Assembly;C;C#;C++;F#;HTML/CSS;JavaScript;Lua;PHP;Python;Rust;SQL;TypeScript,"Developer, embedded applications or devices","['Assembly', 'C', 'C#', 'C++', 'F#', 'HTML/CSS', 'JavaScript', 'Lua', 'PHP', 'Python', 'Rust', 'SQL', 'TypeScript']",35
+739,C#;Java;JavaScript;SQL;TypeScript,"Developer, desktop or enterprise applications","['C#', 'Java', 'JavaScript', 'SQL', 'TypeScript']",64
+740,C#;C++;PowerShell;SQL,"Developer, back-end;Developer, desktop or enterprise applications;DevOps specialist;Cloud infrastructure engineer","['C#', 'C++', 'PowerShell', 'SQL']",64
+741,C#;C++;Java;Python,"Developer, back-end","['C#', 'C++', 'Java', 'Python']",35
+742,Assembly;Bash/Shell;C;C#;C++;Haskell;HTML/CSS;JavaScript;Kotlin;Lua;PowerShell;Python;Ruby;Rust;SQL;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end;Developer, embedded applications or devices;Developer, game or graphics","['Assembly', 'Bash/Shell', 'C', 'C#', 'C++', 'Haskell', 'HTML/CSS', 'JavaScript', 'Kotlin', 'Lua', 'PowerShell', 'Python', 'Ruby', 'Rust', 'SQL', 'TypeScript']",35
+743,C,Student;Cloud infrastructure engineer,['C'],15
+744,Bash/Shell;C#;Dart;HTML/CSS;JavaScript;Kotlin;PHP;PowerShell;Python;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end;Student;Developer, game or graphics;Designer","['Bash/Shell', 'C#', 'Dart', 'HTML/CSS', 'JavaScript', 'Kotlin', 'PHP', 'PowerShell', 'Python', 'TypeScript']",64
+745,Bash/Shell;C;C++;Haskell;Java;Python;Rust,"Developer, back-end;Student;Educator;Academic researcher;Scientist;System administrator","['Bash/Shell', 'C', 'C++', 'Haskell', 'Java', 'Python', 'Rust']",35
+746,C++;Go;Haskell;Lua;Rust,"Developer, back-end;Database administrator","['C++', 'Go', 'Haskell', 'Lua', 'Rust']",35
+747,Rust,"Developer, back-end",['Rust'],18
+748,C#;COBOL;F#;HTML/CSS;Java;JavaScript;PowerShell;SQL;TypeScript,"Developer, back-end;Developer, desktop or enterprise applications;Product manager","['C#', 'COBOL', 'F#', 'HTML/CSS', 'Java', 'JavaScript', 'PowerShell', 'SQL', 'TypeScript']",64
+750,C#;Java;SQL,"Developer, back-end;Developer, desktop or enterprise applications;Developer, QA or test;Database administrator;Data or business analyst","['C#', 'Java', 'SQL']",64
+752,Assembly;Bash/Shell;Haskell;Python;Rust;Scala;TypeScript,"Engineer, data;Developer, back-end","['Assembly', 'Bash/Shell', 'Haskell', 'Python', 'Rust', 'Scala', 'TypeScript']",35
+753,Bash/Shell;C#;HTML/CSS;JavaScript;PowerShell;Python,Cloud infrastructure engineer;System administrator;Security professional,"['Bash/Shell', 'C#', 'HTML/CSS', 'JavaScript', 'PowerShell', 'Python']",64
+754,C;C++;Python;Rust,"Developer, back-end;Developer, desktop or enterprise applications","['C', 'C++', 'Python', 'Rust']",35
+755,C++;OCaml,Other (please specify):,"['C++', 'OCaml']",22
+756,Bash/Shell;Haskell;HTML/CSS;Lua;Python;TypeScript,"Developer, front-end","['Bash/Shell', 'Haskell', 'HTML/CSS', 'Lua', 'Python', 'TypeScript']",102
+757,Bash/Shell;C;C#;C++;Go;Java;LISP;Python;Ruby;SQL,"Developer, back-end;Database administrator;Data or business analyst","['Bash/Shell', 'C', 'C#', 'C++', 'Go', 'Java', 'LISP', 'Python', 'Ruby', 'SQL']",35
+758,C#,"Developer, back-end",['C#'],23
+759,Assembly;Bash/Shell;C;C++;Groovy;Java;JavaScript;LISP;Perl;Python;Rust;TypeScript,"Engineer, site reliability;Developer, back-end;Developer, desktop or enterprise applications;Developer, QA or test;Developer, embedded applications or devices","['Assembly', 'Bash/Shell', 'C', 'C++', 'Groovy', 'Java', 'JavaScript', 'LISP', 'Perl', 'Python', 'Rust', 'TypeScript']",35
+760,Bash/Shell;JavaScript;SQL;TypeScript,"Developer, full-stack;Engineering manager","['Bash/Shell', 'JavaScript', 'SQL', 'TypeScript']",113
+761,C#;HTML/CSS;JavaScript;SQL;TypeScript,"Developer, full-stack;Developer, back-end;Database administrator;DevOps specialist;Cloud infrastructure engineer;Data or business analyst;Designer;Security professional","['C#', 'HTML/CSS', 'JavaScript', 'SQL', 'TypeScript']",64
+762,Bash/Shell;Perl;Python;Rust;SQL;TypeScript,"Developer, back-end","['Bash/Shell', 'Perl', 'Python', 'Rust', 'SQL', 'TypeScript']",35
+763,Bash/Shell;Elixir;Go;HTML/CSS;JavaScript;PHP;SQL,"Developer, front-end;Developer, full-stack;Developer, back-end;Database administrator;System administrator","['Bash/Shell', 'Elixir', 'Go', 'HTML/CSS', 'JavaScript', 'PHP', 'SQL']",113
+764,Bash/Shell;C;Go;HTML/CSS;JavaScript;Lua;Perl;PHP;Python;Rust;SQL,"Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications;Developer, QA or test","['Bash/Shell', 'C', 'Go', 'HTML/CSS', 'JavaScript', 'Lua', 'Perl', 'PHP', 'Python', 'Rust', 'SQL']",35
+765,Bash/Shell;HTML/CSS;Java;Python;SQL,Scientist,"['Bash/Shell', 'HTML/CSS', 'Java', 'Python', 'SQL']",102
+766,C;C++;Clojure;JavaScript;Python,Other (please specify):,"['C', 'C++', 'Clojure', 'JavaScript', 'Python']",35
+767,Bash/Shell;C;Go;Java;Lua;Python;SQL,"Developer, back-end;Developer, desktop or enterprise applications;System administrator","['Bash/Shell', 'C', 'Go', 'Java', 'Lua', 'Python', 'SQL']",102
+768,Bash/Shell;Go;HTML/CSS;Java;JavaScript;Perl;PHP;PowerShell;Python;Rust,"Developer, back-end","['Bash/Shell', 'Go', 'HTML/CSS', 'Java', 'JavaScript', 'Perl', 'PHP', 'PowerShell', 'Python', 'Rust']",102
+769,C#;Go;HTML/CSS;JavaScript;Python;SQL;TypeScript,"Developer, full-stack","['C#', 'Go', 'HTML/CSS', 'JavaScript', 'Python', 'SQL', 'TypeScript']",64
+770,C#;HTML/CSS;JavaScript;PowerShell;Rust;SQL;TypeScript,"Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Cloud infrastructure engineer","['C#', 'HTML/CSS', 'JavaScript', 'PowerShell', 'Rust', 'SQL', 'TypeScript']",64
+771,Bash/Shell;C;C++;Elixir;Fortran;Java;JavaScript;Python;Rust,Student,"['Bash/Shell', 'C', 'C++', 'Elixir', 'Fortran', 'Java', 'JavaScript', 'Python', 'Rust']",35
+772,HTML/CSS;JavaScript;Python;TypeScript,"Developer, full-stack","['HTML/CSS', 'JavaScript', 'Python', 'TypeScript']",113
+773,Go;HTML/CSS;JavaScript;Python;Rust,"Developer, full-stack;DevOps specialist;Cloud infrastructure engineer","['Go', 'HTML/CSS', 'JavaScript', 'Python', 'Rust']",35
+774,JavaScript;SQL;TypeScript,"Developer, full-stack","['JavaScript', 'SQL', 'TypeScript']",113
+775,Go;Python;Rust,Cloud infrastructure engineer;Security professional,"['Go', 'Python', 'Rust']",35
+776,TypeScript,"Developer, full-stack",['TypeScript'],29
+777,Bash/Shell;C;C++;HTML/CSS;Java;JavaScript;Kotlin;Rust;TypeScript,"Developer, front-end;Developer, full-stack;Developer, mobile;Engineering manager;DevOps specialist;System administrator","['Bash/Shell', 'C', 'C++', 'HTML/CSS', 'Java', 'JavaScript', 'Kotlin', 'Rust', 'TypeScript']",35
+778,Bash/Shell;HTML/CSS;Java;JavaScript;PowerShell;Python;Rust;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end;DevOps specialist","['Bash/Shell', 'HTML/CSS', 'Java', 'JavaScript', 'PowerShell', 'Python', 'Rust', 'TypeScript']",102
+779,Lua;Python;Rust,"Developer, embedded applications or devices","['Lua', 'Python', 'Rust']",35
+780,HTML/CSS;JavaScript;PHP;SQL;TypeScript,"Developer, front-end;Developer, full-stack","['HTML/CSS', 'JavaScript', 'PHP', 'SQL', 'TypeScript']",113
+781,Bash/Shell;Haskell;HTML/CSS;Java;JavaScript;Python;Rust;SQL,"Developer, back-end;DevOps specialist;Cloud infrastructure engineer","['Bash/Shell', 'Haskell', 'HTML/CSS', 'Java', 'JavaScript', 'Python', 'Rust', 'SQL']",102
+782,C;Java;Python;Rust,"Developer, front-end;Developer, embedded applications or devices;Developer, game or graphics","['C', 'Java', 'Python', 'Rust']",35
+783,Java;Python,"Engineer, site reliability","['Java', 'Python']",31
+784,Bash/Shell;C;C++;Haskell;Java;Python;Rust;SQL,"DevOps specialist;Developer, embedded applications or devices","['Bash/Shell', 'C', 'C++', 'Haskell', 'Java', 'Python', 'Rust', 'SQL']",35
+785,C#,"Developer, back-end",['C#'],32
+787,Assembly;Bash/Shell;C;HTML/CSS;JavaScript;Python;SQL,"Developer, front-end;Developer, full-stack;Developer, back-end;Database administrator;Developer, embedded applications or devices;Designer;System administrator","['Assembly', 'Bash/Shell', 'C', 'HTML/CSS', 'JavaScript', 'Python', 'SQL']",102
+788,Go;Python;Rust,"Developer, back-end","['Go', 'Python', 'Rust']",35
+789,Bash/Shell;JavaScript;PHP;SQL;TypeScript,"Developer, back-end;Engineering manager","['Bash/Shell', 'JavaScript', 'PHP', 'SQL', 'TypeScript']",113
+791,Bash/Shell;C;C#;C++;Go;Groovy;Java;Python,"Developer, QA or test","['Bash/Shell', 'C', 'C#', 'C++', 'Go', 'Groovy', 'Java', 'Python']",35
+792,Bash/Shell;Go;HTML/CSS;Perl;PHP;PowerShell;Python;R;VBA,Security professional,"['Bash/Shell', 'Go', 'HTML/CSS', 'Perl', 'PHP', 'PowerShell', 'Python', 'R', 'VBA']",102
+793,Bash/Shell;HTML/CSS;Java;JavaScript;Python;SQL,"Developer, back-end;Developer, desktop or enterprise applications","['Bash/Shell', 'HTML/CSS', 'Java', 'JavaScript', 'Python', 'SQL']",102
+796,COBOL;HTML/CSS;Java;Perl;SQL,"Developer, back-end","['COBOL', 'HTML/CSS', 'Java', 'Perl', 'SQL']",102
+797,Java;JavaScript;Kotlin;Rust;SQL;TypeScript,"Developer, full-stack","['Java', 'JavaScript', 'Kotlin', 'Rust', 'SQL', 'TypeScript']",113
+798,Bash/Shell;C;C++;Go;Java;JavaScript;Python;Rust,Cloud infrastructure engineer,"['Bash/Shell', 'C', 'C++', 'Go', 'Java', 'JavaScript', 'Python', 'Rust']",35
+799,C#;PowerShell;Python;Rust;SQL,Student;Other (please specify):,"['C#', 'PowerShell', 'Python', 'Rust', 'SQL']",64
+800,Go;HTML/CSS;JavaScript;Lua;Python;Rust;TypeScript,"Data scientist or machine learning specialist;Developer, front-end;Engineer, data;Developer, full-stack;Developer, back-end;System administrator","['Go', 'HTML/CSS', 'JavaScript', 'Lua', 'Python', 'Rust', 'TypeScript']",113
+801,Bash/Shell;C++;Python;Rust,"Developer, embedded applications or devices","['Bash/Shell', 'C++', 'Python', 'Rust']",35
+802,C++;Go;Python,"Developer, back-end","['C++', 'Go', 'Python']",35
+803,JavaScript,"Developer, front-end;Developer, full-stack",['JavaScript'],36
+804,C;C++;HTML/CSS;Kotlin;Python;Rust,"Data scientist or machine learning specialist;Developer, back-end;Student;Academic researcher;Scientist","['C', 'C++', 'HTML/CSS', 'Kotlin', 'Python', 'Rust']",35
+805,Assembly;C++;Java;Python;SQL,"Developer, back-end","['Assembly', 'C++', 'Java', 'Python', 'SQL']",35
+806,Bash/Shell;Go;Java;Rust;TypeScript,DevOps specialist;Cloud infrastructure engineer,"['Bash/Shell', 'Go', 'Java', 'Rust', 'TypeScript']",35
+807,C++;HTML/CSS;JavaScript;Lua;PHP;PowerShell;Python;Rust;SQL,"Developer, back-end;Developer, game or graphics","['C++', 'HTML/CSS', 'JavaScript', 'Lua', 'PHP', 'PowerShell', 'Python', 'Rust', 'SQL']",35
+808,Rust;SQL;TypeScript,"Engineer, data;Developer, back-end;Data or business analyst;Blockchain","['Rust', 'SQL', 'TypeScript']",35
+809,Go;JavaScript;Rust,"Developer, back-end","['Go', 'JavaScript', 'Rust']",35
+810,Bash/Shell;C#;HTML/CSS;JavaScript;PHP;SQL,Other (please specify):,"['Bash/Shell', 'C#', 'HTML/CSS', 'JavaScript', 'PHP', 'SQL']",64
+811,Bash/Shell;Go;Java;JavaScript;Kotlin;Python,"Engineer, site reliability;DevOps specialist;Cloud infrastructure engineer;System administrator","['Bash/Shell', 'Go', 'Java', 'JavaScript', 'Kotlin', 'Python']",102
+812,Bash/Shell;C#;PowerShell;Python;SQL,"Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications","['Bash/Shell', 'C#', 'PowerShell', 'Python', 'SQL']",64
+813,C++;Java;JavaScript;Kotlin;Lua;Python;Rust,Other (please specify):,"['C++', 'Java', 'JavaScript', 'Kotlin', 'Lua', 'Python', 'Rust']",35
+815,Bash/Shell;C;C++;HTML/CSS;JavaScript;LISP;Python;SQL;TypeScript,"Developer, front-end;Developer, full-stack;Educator;Academic researcher;Developer, game or graphics","['Bash/Shell', 'C', 'C++', 'HTML/CSS', 'JavaScript', 'LISP', 'Python', 'SQL', 'TypeScript']",35
+816,Java;Kotlin,"Developer, back-end","['Java', 'Kotlin']",40
+817,C#;Go;HTML/CSS;Java;JavaScript;Kotlin;PHP;Python;Rust;Scala;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end;DevOps specialist","['C#', 'Go', 'HTML/CSS', 'Java', 'JavaScript', 'Kotlin', 'PHP', 'Python', 'Rust', 'Scala', 'TypeScript']",113
+818,C++;Python;Rust,"Developer, front-end;Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications;DevOps specialist","['C++', 'Python', 'Rust']",35
+819,Bash/Shell;Clojure;HTML/CSS;JavaScript;OCaml;SQL,"Developer, full-stack;Educator;Engineering manager;Project manager;Product manager","['Bash/Shell', 'Clojure', 'HTML/CSS', 'JavaScript', 'OCaml', 'SQL']",113
+820,C;C++;HTML/CSS;JavaScript;Python;Rust;SQL,"Developer, back-end;Developer, desktop or enterprise applications","['C', 'C++', 'HTML/CSS', 'JavaScript', 'Python', 'Rust', 'SQL']",35
+821,Bash/Shell;Clojure;Dart;HTML/CSS;JavaScript;SQL,"Developer, full-stack;Developer, back-end","['Bash/Shell', 'Clojure', 'Dart', 'HTML/CSS', 'JavaScript', 'SQL']",113
+822,APL;HTML/CSS;JavaScript,"Developer, full-stack;Developer, back-end;Educator;Designer","['APL', 'HTML/CSS', 'JavaScript']",113
+824,Bash/Shell;C;C#;Go;HTML/CSS;Java;JavaScript;Rust;SQL;TypeScript,"Developer, full-stack;Database administrator;Project manager","['Bash/Shell', 'C', 'C#', 'Go', 'HTML/CSS', 'Java', 'JavaScript', 'Rust', 'SQL', 'TypeScript']",64
+827,Bash/Shell;C++;Go;HTML/CSS;JavaScript;Python;Rust;SQL;TypeScript,"Engineer, site reliability;Developer, back-end;Cloud infrastructure engineer","['Bash/Shell', 'C++', 'Go', 'HTML/CSS', 'JavaScript', 'Python', 'Rust', 'SQL', 'TypeScript']",35
+829,Bash/Shell;HTML/CSS;JavaScript;PHP;Rust;SQL;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end;Engineering manager;Database administrator;DevOps specialist;Cloud infrastructure engineer;Senior Executive (C-Suite, VP, etc.)","['Bash/Shell', 'HTML/CSS', 'JavaScript', 'PHP', 'Rust', 'SQL', 'TypeScript']",113
+830,HTML/CSS;Java;PHP;Rust;SQL;TypeScript,"Developer, back-end;Cloud infrastructure engineer","['HTML/CSS', 'Java', 'PHP', 'Rust', 'SQL', 'TypeScript']",113
+833,Assembly;Bash/Shell;C;Python;Rust,"Developer, desktop or enterprise applications;Developer, embedded applications or devices","['Assembly', 'Bash/Shell', 'C', 'Python', 'Rust']",35
+834,C#;Python;Rust;TypeScript,"Developer, full-stack;Developer, game or graphics;Project manager","['C#', 'Python', 'Rust', 'TypeScript']",35
+835,Bash/Shell;C++;Go;Java;Python;Rust;SQL,Cloud infrastructure engineer,"['Bash/Shell', 'C++', 'Go', 'Java', 'Python', 'Rust', 'SQL']",35
+836,Assembly;Bash/Shell;C;C++;Go;Haskell;JavaScript;MATLAB;Python;Rust,Student;Academic researcher;Scientist,"['Assembly', 'Bash/Shell', 'C', 'C++', 'Go', 'Haskell', 'JavaScript', 'MATLAB', 'Python', 'Rust']",35
+839,Bash/Shell;C#;Clojure;HTML/CSS;JavaScript;Ruby;SQL;TypeScript,"Developer, full-stack","['Bash/Shell', 'C#', 'Clojure', 'HTML/CSS', 'JavaScript', 'Ruby', 'SQL', 'TypeScript']",64
+840,Bash/Shell;C#;Java;Kotlin;PowerShell;Python;SQL,"Developer, back-end;Developer, QA or test;Cloud infrastructure engineer","['Bash/Shell', 'C#', 'Java', 'Kotlin', 'PowerShell', 'Python', 'SQL']",102
+841,APL;Assembly;Go;HTML/CSS;JavaScript;Kotlin;PHP;Python;Ruby;Rust;Solidity;SQL,"Developer, full-stack;Academic researcher","['APL', 'Assembly', 'Go', 'HTML/CSS', 'JavaScript', 'Kotlin', 'PHP', 'Python', 'Ruby', 'Rust', 'Solidity', 'SQL']",113
+842,Bash/Shell;Go;HTML/CSS;JavaScript;PHP;Python;Rust;SQL;TypeScript,"Developer, full-stack;Engineering manager;Database administrator;DevOps specialist;Cloud infrastructure engineer;System administrator","['Bash/Shell', 'Go', 'HTML/CSS', 'JavaScript', 'PHP', 'Python', 'Rust', 'SQL', 'TypeScript']",113
+843,Bash/Shell;Elixir;HTML/CSS;JavaScript;Kotlin;Python,"Developer, full-stack","['Bash/Shell', 'Elixir', 'HTML/CSS', 'JavaScript', 'Kotlin', 'Python']",102
+844,C;C#;C++;F#;Rust,"Developer, back-end;Developer, desktop or enterprise applications;Developer, game or graphics","['C', 'C#', 'C++', 'F#', 'Rust']",35
+845,Dart;HTML/CSS;JavaScript;Kotlin;PHP;Rust;TypeScript,"Developer, full-stack;Developer, mobile","['Dart', 'HTML/CSS', 'JavaScript', 'Kotlin', 'PHP', 'Rust', 'TypeScript']",113
+846,C#;TypeScript,"Developer, full-stack","['C#', 'TypeScript']",46
+847,C#;HTML/CSS;JavaScript;SQL,"Developer, full-stack;Database administrator;Project manager","['C#', 'HTML/CSS', 'JavaScript', 'SQL']",64
+850,Bash/Shell;C;C++;Go;JavaScript;Python;Rust;SQL,"Data scientist or machine learning specialist;Engineer, data;Engineer, site reliability;Developer, back-end;Developer, QA or test;Engineering manager;Database administrator;Developer, embedded applications or devices;Developer, game or graphics;Project manager;Cloud infrastructure engineer;Product manager;System administrator","['Bash/Shell', 'C', 'C++', 'Go', 'JavaScript', 'Python', 'Rust', 'SQL']",35
+852,Assembly;C#;C++;HTML/CSS;Java;JavaScript;SQL;VBA,"Developer, desktop or enterprise applications;Educator;Academic researcher;Developer, game or graphics;Scientist","['Assembly', 'C#', 'C++', 'HTML/CSS', 'Java', 'JavaScript', 'SQL', 'VBA']",64
+853,C#;Go;Groovy;Python;SQL;TypeScript,"Engineer, data;Developer, back-end;Cloud infrastructure engineer","['C#', 'Go', 'Groovy', 'Python', 'SQL', 'TypeScript']",64
+854,JavaScript;Python;Rust,"Developer, back-end;Data or business analyst","['JavaScript', 'Python', 'Rust']",35
+855,Assembly;C#;C++;JavaScript;Rust;TypeScript,"Developer, back-end;Cloud infrastructure engineer","['Assembly', 'C#', 'C++', 'JavaScript', 'Rust', 'TypeScript']",35
+856,C#;PowerShell;SQL;TypeScript,"Developer, full-stack;Developer, desktop or enterprise applications","['C#', 'PowerShell', 'SQL', 'TypeScript']",64
+858,Bash/Shell;C++;HTML/CSS;Java;JavaScript;Python;Rust;SQL;TypeScript,"Developer, full-stack","['Bash/Shell', 'C++', 'HTML/CSS', 'Java', 'JavaScript', 'Python', 'Rust', 'SQL', 'TypeScript']",35
+859,Bash/Shell;Go;JavaScript;Lua;Python;Ruby;SQL;TypeScript,"Developer, back-end;Engineering manager;DevOps specialist;Cloud infrastructure engineer","['Bash/Shell', 'Go', 'JavaScript', 'Lua', 'Python', 'Ruby', 'SQL', 'TypeScript']",102
+860,Go;JavaScript;Python;Rust;SQL;TypeScript,"Developer, full-stack;Student;Educator","['Go', 'JavaScript', 'Python', 'Rust', 'SQL', 'TypeScript']",35
+861,Java;JavaScript;Python;SQL;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end;DevOps specialist","['Java', 'JavaScript', 'Python', 'SQL', 'TypeScript']",102
+863,C;Haskell;HTML/CSS;JavaScript;Rust;TypeScript,"Developer, front-end;Developer, full-stack","['C', 'Haskell', 'HTML/CSS', 'JavaScript', 'Rust', 'TypeScript']",35
+865,HTML/CSS;JavaScript;Rust;SQL;TypeScript,"Developer, full-stack","['HTML/CSS', 'JavaScript', 'Rust', 'SQL', 'TypeScript']",113
+866,Java;JavaScript,"Developer, front-end","['Java', 'JavaScript']",47
+867,Assembly;C;HTML/CSS;Java;JavaScript;Python;Rust,"Student;Academic researcher;Developer, embedded applications or devices;Security professional","['Assembly', 'C', 'HTML/CSS', 'Java', 'JavaScript', 'Python', 'Rust']",35
+869,Python;SQL,"Engineer, data","['Python', 'SQL']",48
+870,Assembly;Bash/Shell;C;C#;C++;PowerShell;Rust;TypeScript,"Developer, desktop or enterprise applications;Developer, game or graphics","['Assembly', 'Bash/Shell', 'C', 'C#', 'C++', 'PowerShell', 'Rust', 'TypeScript']",35
+871,COBOL;Rust;SQL,"Developer, back-end","['COBOL', 'Rust', 'SQL']",49
+872,Bash/Shell;C++;Java;JavaScript;SQL,"Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications;Engineering manager;Database administrator;Project manager;Product manager;System administrator","['Bash/Shell', 'C++', 'Java', 'JavaScript', 'SQL']",102
+873,HTML/CSS;Rust,Student,"['HTML/CSS', 'Rust']",50
+874,Go;Python,"Developer, back-end","['Go', 'Python']",52
+875,Bash/Shell;Clojure;Dart;HTML/CSS;JavaScript;PHP;Ruby;SQL,"Developer, front-end;Developer, full-stack;Developer, back-end;Developer, mobile;DevOps specialist;System administrator","['Bash/Shell', 'Clojure', 'Dart', 'HTML/CSS', 'JavaScript', 'PHP', 'Ruby', 'SQL']",113
+878,Bash/Shell;C;C#;C++;Java;Perl;PowerShell;Python;Rust;SQL,"Engineer, site reliability;Developer, back-end;System administrator","['Bash/Shell', 'C', 'C#', 'C++', 'Java', 'Perl', 'PowerShell', 'Python', 'Rust', 'SQL']",35
+879,Clojure;Java,"Developer, full-stack","['Clojure', 'Java']",53
+880,Bash/Shell;C#;HTML/CSS;Java;JavaScript;Rust;SQL;TypeScript,"Developer, full-stack","['Bash/Shell', 'C#', 'HTML/CSS', 'Java', 'JavaScript', 'Rust', 'SQL', 'TypeScript']",64
+882,HTML/CSS;JavaScript;TypeScript,"Developer, full-stack","['HTML/CSS', 'JavaScript', 'TypeScript']",113
+883,Bash/Shell;Go;Python,"Engineer, site reliability;Developer, back-end;DevOps specialist","['Bash/Shell', 'Go', 'Python']",35
+884,HTML/CSS;JavaScript;PHP;SQL,"Developer, back-end","['HTML/CSS', 'JavaScript', 'PHP', 'SQL']",113
+885,Bash/Shell;C;HTML/CSS;Java;JavaScript;Python;R;Rust;Scala;TypeScript,"Data scientist or machine learning specialist;Engineer, data;Developer, full-stack;Developer, desktop or enterprise applications;Academic researcher;System administrator","['Bash/Shell', 'C', 'HTML/CSS', 'Java', 'JavaScript', 'Python', 'R', 'Rust', 'Scala', 'TypeScript']",35
+887,C#;C++;Lua;PowerShell;Python,"Developer, full-stack;Developer, desktop or enterprise applications;Project manager","['C#', 'C++', 'Lua', 'PowerShell', 'Python']",35
+888,Haskell;HTML/CSS;JavaScript;Kotlin;PHP;Python;R;Rust;SQL;TypeScript,"Developer, full-stack","['Haskell', 'HTML/CSS', 'JavaScript', 'Kotlin', 'PHP', 'Python', 'R', 'Rust', 'SQL', 'TypeScript']",113
+890,C;HTML/CSS;JavaScript;PHP;SQL,"Developer, front-end;Developer, full-stack;Developer, back-end;Developer, embedded applications or devices","['C', 'HTML/CSS', 'JavaScript', 'PHP', 'SQL']",113
+892,Bash/Shell;C#;Clojure;Go;Groovy;Java;Kotlin;Python;SQL,"Developer, back-end","['Bash/Shell', 'C#', 'Clojure', 'Go', 'Groovy', 'Java', 'Kotlin', 'Python', 'SQL']",102
+893,C;C++;JavaScript;Python;SQL,"Developer, front-end;Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications;Designer","['C', 'C++', 'JavaScript', 'Python', 'SQL']",35
+894,HTML/CSS;JavaScript,"Developer, front-end","['HTML/CSS', 'JavaScript']",55
+896,HTML/CSS;JavaScript;PHP;TypeScript,"Developer, full-stack;Developer, back-end","['HTML/CSS', 'JavaScript', 'PHP', 'TypeScript']",113
+897,Clojure;JavaScript;Python;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end;Developer, mobile","['Clojure', 'JavaScript', 'Python', 'TypeScript']",113
+898,Java,"Developer, back-end",['Java'],56
+899,Haskell;Java;Rust,"Developer, back-end;Student;Developer, embedded applications or devices","['Haskell', 'Java', 'Rust']",35
+900,C#;HTML/CSS;JavaScript;PowerShell;SQL,"Developer, front-end;Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications;Database administrator;Designer","['C#', 'HTML/CSS', 'JavaScript', 'PowerShell', 'SQL']",64
+903,Go;Rust,"Developer, back-end","['Go', 'Rust']",59
+905,Bash/Shell;HTML/CSS;JavaScript;MATLAB;Python,Student;Other (please specify):,"['Bash/Shell', 'HTML/CSS', 'JavaScript', 'MATLAB', 'Python']",102
+906,JavaScript;Lua;PHP;SQL;TypeScript,"Engineer, site reliability;DevOps specialist;Senior Executive (C-Suite, VP, etc.)","['JavaScript', 'Lua', 'PHP', 'SQL', 'TypeScript']",113
+909,C#;Clojure;Elixir;F#;HTML/CSS;JavaScript;PowerShell;SQL,"Developer, full-stack;Engineering manager","['C#', 'Clojure', 'Elixir', 'F#', 'HTML/CSS', 'JavaScript', 'PowerShell', 'SQL']",64
+912,C++;HTML/CSS;JavaScript;Python;Rust;TypeScript,"Developer, full-stack","['C++', 'HTML/CSS', 'JavaScript', 'Python', 'Rust', 'TypeScript']",35
+913,Assembly;C;JavaScript;Python;Rust,Academic researcher;Security professional,"['Assembly', 'C', 'JavaScript', 'Python', 'Rust']",35
+914,HTML/CSS;JavaScript;Swift,"Developer, front-end","['HTML/CSS', 'JavaScript', 'Swift']",64
+916,Bash/Shell;Python;R;SQL,Product manager,"['Bash/Shell', 'Python', 'R', 'SQL']",102
+917,Rust;SQL;TypeScript,"Developer, full-stack","['Rust', 'SQL', 'TypeScript']",35
+918,Bash/Shell;Python;Scala,"Developer, back-end","['Bash/Shell', 'Python', 'Scala']",102
+919,Assembly;C;C++;HTML/CSS;MATLAB;Rust;VBA,"Developer, full-stack;Student","['Assembly', 'C', 'C++', 'HTML/CSS', 'MATLAB', 'Rust', 'VBA']",35
+920,Rust,"Developer, front-end;Developer, full-stack;Developer, back-end;Engineering manager;Developer, game or graphics;Scientist;System administrator",['Rust'],63
+921,PowerShell;Python,"Developer, desktop or enterprise applications;Developer, QA or test;Cloud infrastructure engineer","['PowerShell', 'Python']",67
+923,Bash/Shell;C;C#;C++;Lua;Python;Rust,Student;Other (please specify):;Scientist,"['Bash/Shell', 'C', 'C#', 'C++', 'Lua', 'Python', 'Rust']",35
+924,Bash/Shell;Python;Rust,"Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Cloud infrastructure engineer","['Bash/Shell', 'Python', 'Rust']",35
+926,C;C++;Go;JavaScript;Python;Rust;SQL;TypeScript,"Developer, back-end","['C', 'C++', 'Go', 'JavaScript', 'Python', 'Rust', 'SQL', 'TypeScript']",35
+927,Bash/Shell;Go;HTML/CSS;JavaScript;Python;Rust,"Developer, back-end;Developer, desktop or enterprise applications;Developer, QA or test;Developer, embedded applications or devices","['Bash/Shell', 'Go', 'HTML/CSS', 'JavaScript', 'Python', 'Rust']",35
+928,Bash/Shell;C++;Go;HTML/CSS;Java;JavaScript;Python;Rust;SQL;TypeScript,"Developer, full-stack;Developer, back-end;Developer, QA or test","['Bash/Shell', 'C++', 'Go', 'HTML/CSS', 'Java', 'JavaScript', 'Python', 'Rust', 'SQL', 'TypeScript']",35
+929,Go;Java;JavaScript;Kotlin;Rust;SQL,"Developer, front-end;Developer, full-stack;Developer, back-end;Blockchain","['Go', 'Java', 'JavaScript', 'Kotlin', 'Rust', 'SQL']",102
+931,JavaScript;Python;TypeScript,"Developer, full-stack;Developer, desktop or enterprise applications","['JavaScript', 'Python', 'TypeScript']",113
+932,Bash/Shell;C;C++;Go;Java;JavaScript;PHP;Python,"Developer, full-stack;Developer, desktop or enterprise applications;Student;Database administrator;Developer, embedded applications or devices;System administrator","['Bash/Shell', 'C', 'C++', 'Go', 'Java', 'JavaScript', 'PHP', 'Python']",35
+933,Bash/Shell;C++;Go;HTML/CSS;Java;JavaScript;MATLAB;Python;R;Rust;SQL;TypeScript,"Developer, full-stack;Student","['Bash/Shell', 'C++', 'Go', 'HTML/CSS', 'Java', 'JavaScript', 'MATLAB', 'Python', 'R', 'Rust', 'SQL', 'TypeScript']",35
+936,JavaScript;TypeScript,"Developer, front-end;Developer, full-stack","['JavaScript', 'TypeScript']",70
+937,C#;HTML/CSS;JavaScript;PowerShell;SQL,"Developer, full-stack;Developer, desktop or enterprise applications","['C#', 'HTML/CSS', 'JavaScript', 'PowerShell', 'SQL']",64
+939,Bash/Shell;Groovy;Java,Engineering manager,"['Bash/Shell', 'Groovy', 'Java']",102
+940,Bash/Shell;Clojure;Dart;HTML/CSS;Java;JavaScript,"Developer, front-end;Developer, full-stack;Developer, back-end;Developer, mobile;Engineering manager;Senior Executive (C-Suite, VP, etc.)","['Bash/Shell', 'Clojure', 'Dart', 'HTML/CSS', 'Java', 'JavaScript']",102
+941,Bash/Shell;Clojure;HTML/CSS;Java;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications;Developer, mobile;Educator","['Bash/Shell', 'Clojure', 'HTML/CSS', 'Java', 'TypeScript']",113
+942,Bash/Shell;Go;JavaScript;Lua;Python;Rust;SQL,"Developer, back-end;DevOps specialist;Blockchain","['Bash/Shell', 'Go', 'JavaScript', 'Lua', 'Python', 'Rust', 'SQL']",35
+943,Python,Student;Project manager,['Python'],72
+944,Go;HTML/CSS;JavaScript;PowerShell;Python;Rust;TypeScript,"Developer, full-stack","['Go', 'HTML/CSS', 'JavaScript', 'PowerShell', 'Python', 'Rust', 'TypeScript']",113
+945,Bash/Shell;C;C++;Python,"Developer, back-end","['Bash/Shell', 'C', 'C++', 'Python']",35
+946,Bash/Shell;C#;JavaScript;PHP;PowerShell;Python;SQL;TypeScript,"Engineering manager;Senior Executive (C-Suite, VP, etc.)","['Bash/Shell', 'C#', 'JavaScript', 'PHP', 'PowerShell', 'Python', 'SQL', 'TypeScript']",64
+948,Bash/Shell;C++;Groovy;Java;Kotlin;PowerShell;Python,"Developer, mobile","['Bash/Shell', 'C++', 'Groovy', 'Java', 'Kotlin', 'PowerShell', 'Python']",35
+949,C#;HTML/CSS;JavaScript;Python;SQL;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end;Project manager;Data or business analyst;Product manager","['C#', 'HTML/CSS', 'JavaScript', 'Python', 'SQL', 'TypeScript']",64
+950,Bash/Shell;Go;Groovy;Java;JavaScript;PHP;Python;SQL,"Developer, full-stack;Developer, back-end;Developer, QA or test;Engineering manager","['Bash/Shell', 'Go', 'Groovy', 'Java', 'JavaScript', 'PHP', 'Python', 'SQL']",102
+951,Bash/Shell;C;C++;Elixir;Erlang;Go;Groovy;HTML/CSS;Java;JavaScript;Kotlin;Perl;Python;Ruby;Rust;SQL;TypeScript,"Developer, back-end","['Bash/Shell', 'C', 'C++', 'Elixir', 'Erlang', 'Go', 'Groovy', 'HTML/CSS', 'Java', 'JavaScript', 'Kotlin', 'Perl', 'Python', 'Ruby', 'Rust', 'SQL', 'TypeScript']",35
+952,HTML/CSS;JavaScript;Rust;SQL;TypeScript,"Developer, full-stack","['HTML/CSS', 'JavaScript', 'Rust', 'SQL', 'TypeScript']",113
+954,C#;F#,"Developer, desktop or enterprise applications","['C#', 'F#']",75
+955,C#;HTML/CSS;JavaScript;SQL,"Developer, full-stack;Developer, back-end","['C#', 'HTML/CSS', 'JavaScript', 'SQL']",64
+956,C;C++;Haskell;Julia;Lua;MATLAB;Python;Rust;Scala,Academic researcher,"['C', 'C++', 'Haskell', 'Julia', 'Lua', 'MATLAB', 'Python', 'Rust', 'Scala']",35
+957,C;C++;Go;HTML/CSS;Java;JavaScript;PHP;Python;Ruby;SQL;TypeScript,Security professional,"['C', 'C++', 'Go', 'HTML/CSS', 'Java', 'JavaScript', 'PHP', 'Python', 'Ruby', 'SQL', 'TypeScript']",113
+959,C#;HTML/CSS;JavaScript;Python;SQL;TypeScript,"Developer, full-stack","['C#', 'HTML/CSS', 'JavaScript', 'Python', 'SQL', 'TypeScript']",64
+960,C++,"Engineer, data;Developer, back-end;Developer, desktop or enterprise applications",['C++'],76
+962,Python,"Developer, back-end",['Python'],78
+963,Groovy;JavaScript;Perl;Python;Rust;Swift,Cloud infrastructure engineer,"['Groovy', 'JavaScript', 'Perl', 'Python', 'Rust', 'Swift']",35
+964,Scala;SQL,"Engineer, data;Developer, back-end","['Scala', 'SQL']",79
+966,HTML/CSS;JavaScript;PHP;SQL;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end;DevOps specialist;System administrator","['HTML/CSS', 'JavaScript', 'PHP', 'SQL', 'TypeScript']",113
+967,C#;C++;Java;JavaScript;Objective-C;PowerShell;Ruby;TypeScript,"Engineer, data;Developer, back-end;Developer, QA or test;DevOps specialist;Cloud infrastructure engineer;Security professional","['C#', 'C++', 'Java', 'JavaScript', 'Objective-C', 'PowerShell', 'Ruby', 'TypeScript']",64
+968,HTML/CSS;JavaScript;PHP;SQL;TypeScript,"Developer, full-stack","['HTML/CSS', 'JavaScript', 'PHP', 'SQL', 'TypeScript']",113
+969,Bash/Shell;HTML/CSS;Java;JavaScript;PHP;Python;Rust;SQL,"Developer, full-stack;Database administrator;DevOps specialist;System administrator","['Bash/Shell', 'HTML/CSS', 'Java', 'JavaScript', 'PHP', 'Python', 'Rust', 'SQL']",102
+970,Elixir;Erlang,"Developer, back-end","['Elixir', 'Erlang']",80
+971,C#,"Developer, full-stack",['C#'],81
+972,Assembly;Bash/Shell;C;C++;Go;HTML/CSS;JavaScript;Python;Rust;Solidity,"Developer, back-end;Other (please specify):;Scientist;Blockchain","['Assembly', 'Bash/Shell', 'C', 'C++', 'Go', 'HTML/CSS', 'JavaScript', 'Python', 'Rust', 'Solidity']",35
+973,JavaScript,"Developer, front-end",['JavaScript'],83
+974,Delphi;HTML/CSS;PHP;Python;SQL,"Developer, desktop or enterprise applications;Developer, QA or test;Database administrator","['Delphi', 'HTML/CSS', 'PHP', 'Python', 'SQL']",113
+975,C#;HTML/CSS;Java;JavaScript;PHP;Python;Ruby;SQL,Security professional,"['C#', 'HTML/CSS', 'Java', 'JavaScript', 'PHP', 'Python', 'Ruby', 'SQL']",64
+977,Groovy;HTML/CSS;Java;JavaScript;Kotlin;Python;SQL,"Developer, full-stack;Developer, desktop or enterprise applications","['Groovy', 'HTML/CSS', 'Java', 'JavaScript', 'Kotlin', 'Python', 'SQL']",102
+978,Bash/Shell;HTML/CSS;JavaScript;Python;TypeScript,"Developer, full-stack;Designer;Senior Executive (C-Suite, VP, etc.)","['Bash/Shell', 'HTML/CSS', 'JavaScript', 'Python', 'TypeScript']",113
+979,Bash/Shell;C#;C++;Java;PowerShell;Python;Rust;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Designer","['Bash/Shell', 'C#', 'C++', 'Java', 'PowerShell', 'Python', 'Rust', 'TypeScript']",35
+980,Java;Python;TypeScript,"Developer, full-stack","['Java', 'Python', 'TypeScript']",102
+981,Bash/Shell;C#;Go;HTML/CSS;Java;JavaScript;PowerShell;Python;Solidity;TypeScript,"Developer, back-end;Cloud infrastructure engineer;Product manager","['Bash/Shell', 'C#', 'Go', 'HTML/CSS', 'Java', 'JavaScript', 'PowerShell', 'Python', 'Solidity', 'TypeScript']",64
+982,Bash/Shell;C++;HTML/CSS;JavaScript;PHP;Python;TypeScript,"Developer, back-end;Other (please specify):","['Bash/Shell', 'C++', 'HTML/CSS', 'JavaScript', 'PHP', 'Python', 'TypeScript']",113
+983,Assembly;Bash/Shell;C;C++;PowerShell;Python;Rust,"Developer, embedded applications or devices","['Assembly', 'Bash/Shell', 'C', 'C++', 'PowerShell', 'Python', 'Rust']",35
+984,C#;JavaScript;SQL;VBA,"Developer, full-stack;Project manager","['C#', 'JavaScript', 'SQL', 'VBA']",64
+985,Bash/Shell;C#;Haskell;HTML/CSS;JavaScript;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end","['Bash/Shell', 'C#', 'Haskell', 'HTML/CSS', 'JavaScript', 'TypeScript']",64
+986,C#;Clojure;HTML/CSS;Java;JavaScript;Kotlin;SQL;TypeScript,"Developer, full-stack","['C#', 'Clojure', 'HTML/CSS', 'Java', 'JavaScript', 'Kotlin', 'SQL', 'TypeScript']",64
+988,JavaScript;Python;Rust;TypeScript,"Developer, front-end;Engineering manager","['JavaScript', 'Python', 'Rust', 'TypeScript']",35
+989,Bash/Shell;C++;Go;Groovy;JavaScript;Python;Rust;SQL;TypeScript,"Developer, back-end;DevOps specialist;Cloud infrastructure engineer;Blockchain","['Bash/Shell', 'C++', 'Go', 'Groovy', 'JavaScript', 'Python', 'Rust', 'SQL', 'TypeScript']",35
+990,Bash/Shell;C++;HTML/CSS;JavaScript;Lua;Python;Rust;SQL,"Developer, back-end;DevOps specialist;Developer, embedded applications or devices","['Bash/Shell', 'C++', 'HTML/CSS', 'JavaScript', 'Lua', 'Python', 'Rust', 'SQL']",35
+991,C#;C++;HTML/CSS;Java;JavaScript;SQL;TypeScript,"Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications;Student","['C#', 'C++', 'HTML/CSS', 'Java', 'JavaScript', 'SQL', 'TypeScript']",64
+993,Bash/Shell;Go;HTML/CSS;JavaScript;Python;Rust;SQL,"Developer, back-end;Engineering manager;DevOps specialist;Developer, embedded applications or devices;Cloud infrastructure engineer;Security professional","['Bash/Shell', 'Go', 'HTML/CSS', 'JavaScript', 'Python', 'Rust', 'SQL']",102
+994,Delphi;HTML/CSS;JavaScript;Rust;SQL,"Developer, front-end;Developer, full-stack;Developer, back-end;Designer","['Delphi', 'HTML/CSS', 'JavaScript', 'Rust', 'SQL']",113
+995,Bash/Shell;C;C++;Dart;Go;HTML/CSS;Java;JavaScript;Lua;Python;Rust;SQL;TypeScript,"Developer, front-end;Developer, full-stack;Developer, back-end;Developer, desktop or enterprise applications;Developer, mobile;Engineering manager;DevOps specialist;Developer, embedded applications or devices;Cloud infrastructure engineer;System administrator;Security professional","['Bash/Shell', 'C', 'C++', 'Dart', 'Go', 'HTML/CSS', 'Java', 'JavaScript', 'Lua', 'Python', 'Rust', 'SQL', 'TypeScript']",35
+996,C#;HTML/CSS;JavaScript;SQL;TypeScript,"Developer, full-stack","['C#', 'HTML/CSS', 'JavaScript', 'SQL', 'TypeScript']",64
+997,Bash/Shell;C;Elixir;JavaScript;Rust;SQL;TypeScript,"Senior Executive (C-Suite, VP, etc.)","['Bash/Shell', 'C', 'Elixir', 'JavaScript', 'Rust', 'SQL', 'TypeScript']",35
+998,Bash/Shell;C#;JavaScript;PowerShell;Python;SQL,"Engineer, site reliability;DevOps specialist;Cloud infrastructure engineer;Security professional","['Bash/Shell', 'C#', 'JavaScript', 'PowerShell', 'Python', 'SQL']",64
+999,Java;PHP,"Developer, back-end","['Java', 'PHP']",93
